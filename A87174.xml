@@ -1,0 +1,606 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A panegyrick of the most renowned and serene Princess Christina, by the grace of God, Queene of Swedland, Goths and Vandals. / Written originally in French, by the learned pen of Mr. de Harst, and now translated into English by W.L. Gent.</title>
+            <author>De Harst, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87174</idno>
+            <idno type="STC">Wing H923</idno>
+            <idno type="STC">Thomason E1704_2</idno>
+            <idno type="STC">ESTC R209441</idno>
+            <idno type="EEBO-CITATION">99868324</idno>
+            <idno type="PROQUEST">99868324</idno>
+            <idno type="VID">170285</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87174)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170285)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 212:E1704[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A panegyrick of the most renowned and serene Princess Christina, by the grace of God, Queene of Swedland, Goths and Vandals. / Written originally in French, by the learned pen of Mr. de Harst, and now translated into English by W.L. Gent.</title>
+                  <author>De Harst, Mr.</author>
+               </titleStmt>
+               <extent>[16], 75; 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Dring, and are to be sold at his shop at the signe of the George in Fleet-street, near Cliffords-Inne,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Original untraced.</note>
+                  <note>The final 5 p. have even numbered rectos.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kristina, --  Queen of Sweden, 1626-1689 --  Early works to 1800.</term>
+               <term>Sweden --  History --  Christina, 1632-1654. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Enrique Valdive</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Enrique Valdive</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170285:1" rendition="simple:additions"/>
+            <p>A PANEGYRICK OF The moſt Renowned and Serene Princeſs <hi>CHRISTINA,</hi> By the Grace of God, Queene of <hi>Swedland, Goths</hi> and <hi>Vandals.</hi>
+            </p>
+            <p>Written Originally in <hi>French,</hi> by the learned Pen of Mr. <hi>de Harſt,</hi> And now Tranſlated into Engliſh By <hi>W. L.</hi> Gent.</p>
+            <q>Si bene, ſat feci; ſi male, nimium.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Dring,</hi> and are to be ſold at his Shop at the Signe of <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>George</hi> in <hi>Fleet-ſtreet,</hi> near <hi>Cliffords-Inne,</hi> 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170285:2"/>
+            <pb facs="tcp:170285:2" rendition="simple:additions"/>
+            <head>For the Faire and ho<g ref="char:EOLhyphen"/>noured hands of M<hi rend="sup">is</hi> 
+               <hi>R. G.</hi>
+            </head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou may well expect that I ſhould appeare in guilty colours, and even bluſh my ſelf into blood at the thought of my temerity; You may juſtly condemne my preſumption, and reproach my confi<g ref="char:EOLhyphen"/>dence, that durſt attempt to dedicate theſe recreations to your reading, or think, that Inke and Paper could be a Preſent that might deſerve your acceptance: No, Madam, though it were poſſible they could be writ with a quill pluck't from the wing of an Angel, yet could they not de<g ref="char:EOLhyphen"/>ſerve ſo great a bleſſing. What then can I hope for, who make my Addreſſes ſo poor<g ref="char:EOLhyphen"/>ly? Who is there that will not judge me to be ſo great an offendor, as to have ſoared above the reach of your pardon, and that you ought to invent new puniſhments, if
+<pb facs="tcp:170285:3"/>you would have any that might ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch my crimes. But when I conſider that variety of Ornaments wherewith Nature hath ſo plentifully enrich't you, that had ſhe made another like you, ſhe had utterly undone the whole race of perfection, &amp; no woman would hereafter have had the pri<g ref="char:EOLhyphen"/>viledge to becall'd handſome; when I con<g ref="char:EOLhyphen"/>ſider in the ſhallowneſſe of my fancy all that is excellent in you, I cannot but think that Charity hath a great ſhare in your ſoule, and that you can pardon a perſon, whoſe ambition in ſending theſe un<g ref="char:EOLhyphen"/>refined papers to kiſſe your faire hands, was not at all to diſturbe you in your higher and better imployments, but only that in ſuch ſmall things I might explain the greatneſſe of my Devotion. I confeſſe that the largeneſſe of gifts are generally powerful in the minds of the Receivers, &amp; can either create merits where there are none, or ſet a luſter upon thoſe that are but ſmall: but I know, you have a ſoul of ano<g ref="char:EOLhyphen"/>ther compoſition, and can value the gift by the perſon, and not the perſon by the
+<pb facs="tcp:170285:3"/>gift: and truely 'tis that which renders you moſt like your ſelfe, and makes you approach neereſt to Divinity; For, hea<g ref="char:EOLhyphen"/>ven receives a Prayer, or a grain of Incenſe, (if free from impurity and hypocriſie) with a greater reliſh and re<g ref="char:EOLhyphen"/>ſpect, then if they had ſacrificed whole <hi>Hecatombs,</hi> or emptied <hi>Arabia</hi> of its Perfumes. I begin therefore to think it a crime of no ſmall extent, to miſtruſt your favour, being I offer this with the ſame zeal and reverence, in which a Lover courts his Flame, or a Pilgrim his God. 'Tis true, Madam, when I caſt't my eyes upon you, and ſurvey'd the height of your merit, and then turn'd them upon my ſelfe, and beheld the meanneſſe of my owne, the greatneſſe of the diſproportion made my duty ſtruggle with my reſpects, and I doubted, whether I might write or no: But all oppoſitions were vain, and quickly vaniſh'd; for, were my Teeth a row of Thornes, yet my Tongue would through, when it is to make its addreſſes to ſuch an Angell as your
+<pb facs="tcp:170285:4"/>ſelfe, whoſe every look utters Captivity, and can turn Saints to Idolaters.</p>
+            <p>When I firſt took notice of this <hi>Pa<g ref="char:EOLhyphen"/>negyrick,</hi> as it appeared in the <hi>French</hi> its naturall Language, and finding the Matter well and orderly diſpoſed, the Senſe perſwaſive and eloquent, the words high and ſignificant, I judg'd it worthy to be tranſlated for my ſelfe; but, when I conſidered the ſtrangeneſſe of the ſubject, that it was a <hi>Woman;</hi> and the dignity of the perſon, that it was a <hi>Queen,</hi> that had deſerved all theſe Encomiums, I then began to think, (pardon the expreſſion) that it was wor<g ref="char:EOLhyphen"/>thy to be tranſlated for you: For, Lady, do but ſtrip the great <hi>Chriſtina,</hi> of her Majeſty and manly Vertues, and I'le then ſay, I do but preſent you with thoſe graces, which you repreſent, and, like a true Glaſſe, only ſhew you what you are.</p>
+            <p>But, Madam, in the reading of theſe my Endeavours, if you finde any thing to be well done, I muſt pay my thanks to you; for, 'tis from your fair eyes that I
+<pb facs="tcp:170285:4"/>fetch'd my directions and influence. But, if any thing look with an unpleaſant aſpect, my unskilfulneſſe in the language, and the fewneſſe of my years, being yet arrived but at the age of twenty, may make up, if not a juſt reaſon, yet (at leaſt) a prevailing excuſe.</p>
+            <p>It is not my ambition, nor was it ever my deſire, to appear in Print, I alwaies judged my ſelfe then moſt ſecure, when moſt private; nor had I now expoſed my thoughts to the publick view, had not the importunity of ſome friends, and a deſire to ſerve you, and your fair ſex, (like two perſwading Oratours) ſo wrought upon my reſolutions, that they could no longer deny to pay obedience to ſuch powerfull reaſons. Some perſons there are, who ſtrive to eclipſe the glories of Women, and draw a cloud over that flowing luſtre, that alwaies attends their graces; but I have here diſcovered to the world and them, in the happy exam<g ref="char:EOLhyphen"/>ple of this great <hi>Queen,</hi> that Women, as well as Men, have Soules; that may not
+<pb facs="tcp:170285:5"/>only be capable of great matters, but can alſo enjoy all thoſe ornaments, which may make up a juſt accompliſhment, and render perſons both happy and admir'd.</p>
+            <p>I will not ſay, that this Tranſlation is exact, nor dare I ſay, 'tis acceptable; but, as to that part which belongs to my endeavours, I freely confeſſe, it is not worth your peruſall: Yet, <hi>Fair,</hi> do you but throw your eyes upon it, and it preſently becomes pretious, and may be fit for the Cabinets of Princes. So the daring <hi>Prometheus,</hi> wrought a Picture out of clay, deform'd and cold in the touch; but it was the fire which he ſtole from heaven, that added life and motion to that imperfect <hi>Embryo.</hi>
+            </p>
+            <p>But, Madam, being 'tis to you that I write, it might well be expected, that I ſhould not ſo much ſtrive, how to tran<g ref="char:EOLhyphen"/>ſlate a Panegyrick, as how to compoſe one: For, the world might count me an Infidell, one void of the light of Reaſon and Nature, if, having ſo fair an op<g ref="char:EOLhyphen"/>portunity as this, preſented to my accep<g ref="char:EOLhyphen"/>tance,
+<pb facs="tcp:170285:5"/>I ſhould not glance upon the en<g ref="char:EOLhyphen"/>dowments of your perſon; Nay, I ſhould think it a piece of juſtice, if heaven, be<g ref="char:EOLhyphen"/>cauſe I would not praiſe you when I might, ſhould ſtrike me dumb, and not let me praiſe you when I would.</p>
+            <p>But, Madam, your commendations are ſo copious a ſubject, that every thought of them, puts my fancy in a Labyrinth, where the greateſt of inventions may for ever wander, and yet never finde a thread to procure their liberties. The choice of Wits might here ſtrike ſaile, and confeſſe, that ſilence is their best Orator; and that a look from your face, can more explain your graces in one minute, then their tongues in a whole age. And there<g ref="char:EOLhyphen"/>fore I ſhall only ſay, that heaven hath dealt with you, as the Geographers with the World, which though a vaſt Body in it ſelfe, they have contracted into the narrow compaſſe of a Globe. So, all thoſe graces that are ſcattered about the world, are united in your face; and while I contemplate you, I behold them all.
+<pb facs="tcp:170285:6"/>Some Women, like the <hi>Panther,</hi> have fair and well-proportioned bodies, but are fain to obſcure their faces in their ſilken clouds, fearing to betray the miſe<g ref="char:EOLhyphen"/>rable ruines, either of time or diſeaſes: Some are like <hi>Ermines,</hi> beautifull in nothing but their skins, and ſome are like rough Diamonds, whoſe out-ſides carry no enticeing charmes, but look within, and you'l finde ſoules full of brightneſſe and action. But in you, Madam, as ſo many Lines running to one Center, theſe ſeverall graces meet, and frame up an exact Harmony. You ſhine above others, as a Planet above a private Star: And if there be any yet, who dare over-va<g ref="char:EOLhyphen"/>lue the excellency of a Lady, and call her a Star, I'le ſay, you are a Conſtella<g ref="char:EOLhyphen"/>tion: for 'tis but juſtice, that I ſhould rank you with your deſerts; and, as nature, ſo deſcription, might make you exceed.</p>
+            <p>Perhaps, <hi>Fair,</hi> you may ſay, that I flatter. But, Oh! don't brand my in<g ref="char:EOLhyphen"/>nocence with ſo great a ſin. I confeſſe, had I ſaid this to another, I ſhould have
+<pb facs="tcp:170285:6"/>been my owne Judge, and condemned my ſelfe, as a perſon guilty of that crime: Had I told another, that her eyes carried fire enough, to tempt the gods to invent new diſguiſes, and viſit the earth again. That Lillies and Roſes enjoyed no Whites and Reds, till her Cheeks taught them their complexions, I ſhould have thought, I lyed; but when I ſpeak the ſame things to you, that which before was falſe, is converted into truth, and that which was a ſin before, is now become piety. And therefore don't think, that I write this out cuſtom, but devotion; not as though I uſe to ſpeak ſo, but becauſe you uſe to be ſo.</p>
+            <p>But, Madam, I ſhall no longer ſuſ<g ref="char:EOLhyphen"/>pend your judgment, or ſpin out time and my thoughts in a diſcourſe, where my reſpects may prove as tedious, as your graces are alluring; I fear, leſt while I ſtrive to entertain the more pleaſing ſub<g ref="char:EOLhyphen"/>ject, I keep you from the more pleaſing matter; for, me-thinks I ſee your incli<g ref="char:EOLhyphen"/>nation more towards the Author, with a deſire to hear him breathe, where you will
+<pb facs="tcp:170285:7"/>finde wit and invention run like para<g ref="char:EOLhyphen"/>lells, exact and equall. As for the Lan<g ref="char:EOLhyphen"/>guage, ſo much as refers to the tranſla<g ref="char:EOLhyphen"/>tion, I reſigne it to the juſtneſſe of your cenſure. My thoughts are yet but Me<g ref="char:EOLhyphen"/>teors, and maintain only a flattering and borrowed light; it reſts only in the power of your creating ſmiles, to make them ſeem reall Stars, and become ſix'd. In which bleſſing, though I claime nothing, yet I ſcarce doubt an intereſt. For it were a crime to think, that a Body, ſoft and melting, like yours, can be inhabited by a ſoul of a more ſtubborn conſtitution.</p>
+            <p>If, <hi>Fair,</hi> you will now vouchſafe to pardon all thoſe defects, which you finde, either in my Pen or my Perſon; either in what I write, or what I am, your good<g ref="char:EOLhyphen"/>neſſe will multiply my debts, and add new chains to thoſe fetters, wherein you have ſo bound me, that ſooner can heaven want power to puniſh offenders, or your fair face to procure adorers, then I have a Being, and not be,</p>
+            <closer>
+               <signed>The greateſt of your Votaries, W. L.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:170285:7"/>
+            <head>On his Ingenious friend, M<hi rend="sup">r</hi> 
+               <hi>W. L.</hi> his Tranſlation of this <hi>PANEGYRICK.</hi>
+            </head>
+            <lg>
+               <l>WHen that the warbling Echo doth ſing o're,</l>
+               <l>Thoſe pleaſant Notes the voice had tun'd be<g ref="char:EOLhyphen"/>fore</l>
+               <l>'Tis not an eaſie matter for to ſay,</l>
+               <l>The Echo, or the Voice hath won the day:</l>
+               <l>But when ſhe ſporteth, and reſolves to ſhow,</l>
+               <l>How far her leſſon is her skill below,</l>
+               <l>Seven times you may her hear, your Note rehearſe,</l>
+               <l>Make Song, and Chorus of one ſingle verſe:</l>
+               <l>Needs muſt you boaſt, that ſweet your Muſick's held,</l>
+               <l>Seven times repeated, though as oft-excel'd:</l>
+               <l>So when this Princeſs fame, in heavenly tone,</l>
+               <l>By the ſhrill Trumpet of your Author blown,</l>
+               <l>You a more learned Echo, to us do</l>
+               <l>Not onely render, but interpret too.</l>
+               <l>Where ſits the Judge, that w'ont give you the Bayes?</l>
+               <l>You render us his Book, we you his praiſe:</l>
+               <l>Yet ſhall the Authors name remain in braſs,</l>
+               <l>You him eternize, while you him ſurpaſs:</l>
+               <l>You have confirm'd, that muſick yieldeth ſounds,</l>
+               <l>More lofty, from the water when it bounds,</l>
+               <l>Hence have theſe praiſes ſweeter flown from thee,</l>
+               <l>You brought them out of <hi>France,</hi> they've croſt the Sea:</l>
+               <l>You'l have us underſtand, when you inten<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>For to Tranſtate, it ſignifies to mend.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:170285:8"/>
+            <head>On his worthy friend M<hi rend="sup">r</hi> 
+               <hi>W. L.</hi> His Tranſlation of the <hi>PANEGYRICK.</hi>
+            </head>
+            <lg>
+               <l>NOt all the glory, not the <hi>Pompous</hi> Train,</l>
+               <l>With which <hi>Romes</hi>-Biſhop did her entertain</l>
+               <l>Can countervail that honour, which hath been</l>
+               <l>Rendr'd from your Tranſlation, to the Queene:</l>
+               <l>You've plac't her higher, then when ſhe ſtood before,</l>
+               <l>On the ſeven Hills, and to be ſeen to more,</l>
+               <l>There too ſhe's onely ſeen, you are ſo good</l>
+               <l>Unto her Vertues, here ſhe's underſtood;</l>
+               <l>You alſo have contriv'd your treatment ſo,</l>
+               <l>She's th'entertain'd, and entertainment too.</l>
+               <l>The ſtate of <hi>France,</hi> which was before her laid,</l>
+               <l>Th'addreſs your Author made her, hath out<g ref="char:EOLhyphen"/>weigh'd.</l>
+               <l>You out-do both, each do confeſs and know,</l>
+               <l>You onely could her pay, what they did owe.</l>
+            </lg>
+            <closer>
+               <signed>Tho. Devorax.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:170285:8"/>
+            <head>To his ever honoured Couſin Mr. <hi>W. L. <g ref="char:V">Ʋ</g>pon his Tranſlation and Addition</hi>
+            </head>
+            <lg>
+               <l>TO ſpeak thy praiſe, were nothing but to hold</l>
+               <l>A Candle to the Sun, or to enfold</l>
+               <l>Light in a ſhadow; thy deſerts are grown</l>
+               <l>Greater then Language, nor can they be ſhown</l>
+               <l>By any Quill, but what writes as Divine,</l>
+               <l>And rich a Style as that which flowes from thine.</l>
+               <l>This piece had ſlept, had not thy quick'ning Pen</l>
+               <l>Repair'd the loſs, and gave it life agen.</l>
+               <l>Thou well Tranſlat'ſt, but there thou do'ſt not dwell,</l>
+               <l>Thou ſhow'ſt the world, that thou canſt write as well.</l>
+               <l>So that, of what is open'd to the view,</l>
+               <l>Thou art both Author and Tranſlator too.</l>
+               <l>In this, like to the Moon, thou ſeemeſt bright</l>
+               <l>Under the beauties of another's light:</l>
+               <l>In that, like the unborrow'd beams oth' Sun,</l>
+               <l>Fancy and Wit from thy Invention run.</l>
+               <l>Thou'rt thy owne Fountain, <hi>Tagus</hi> never wore</l>
+               <l>A richer ſtream upon his yellow ſhoare.</l>
+               <l>If <hi>Jove</hi> (when love firſt pierc't his wanton breaſt,</l>
+               <l>And chang'd the am'rous God) had but poſſeſt't</l>
+               <l>Thy Language, fair <hi>Danae</hi> in her Tower</l>
+               <l>Had ſtoop't, and he had ſav'd his golden ſhower.</l>
+            </lg>
+            <closer>
+               <signed>G. L.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:170285:9"/>
+            <head>To his much reſpected friend Mr. <hi>W. L. On his Ingenious Tranſlation.</hi>
+            </head>
+            <lg>
+               <l>IF from my untefined wits could run,</l>
+               <l>As clear a ſtream as from thy Helicon,</l>
+               <l>Could I but breathe thy fire, then might I be</l>
+               <l>In hopes to ſpeak my love, and merit thee,</l>
+               <l>But now alas! Like to the morning Star,</l>
+               <l>(Lights Herauld, and the dayes Embaſſadour)</l>
+               <l>I onely ſtand to propheſie thy fame,</l>
+               <l>And tell the approaches, of a brighter flame:</l>
+               <l>Hail happy thoughts, whoſe iſſues ſweeter are</l>
+               <l>Then Hybla's Hills: each line ſpeaks ſoftneſs, far</l>
+               <l>Beyond the ſilke, and every Period ſhowes</l>
+               <l>More ſmoothneſs, then the face of Chryſtal does:</l>
+               <l>All things fall ſo compoſed from thy Quill,</l>
+               <l>We no more ſpeak, but now admire thy skill:</l>
+               <l>We wonder how thy Pen could build ſo cleare</l>
+               <l>And high a Style, and not forſake the ſphear,</l>
+               <l>Thy Author moves in: but we more admire,</l>
+               <l>How ſuch yong years could breathe ſo bright a fire:</l>
+               <l>Some empty heads love to uſe words that are</l>
+               <l>Nothing but noiſe, and juſt like bubbles bear</l>
+               <l>Onely a bulk, but every word that flies</l>
+               <l>From thy clear vein, both ſpeaks and ſignifies:</l>
+               <l>But ſince thy ſtyl's ſo great, and mine ſo bad,</l>
+               <l>That it will rather clip thy praiſe then add,</l>
+               <l>To the prodigious luſtre of thy fate,</l>
+               <l>Ble onely ſay, that while thou didſt tranſlate</l>
+               <l>This curious Panegyrick, and make known</l>
+               <l>Anothers praiſe, thou do'ſt endite thine own.</l>
+            </lg>
+            <closer>
+               <signed>James Draiton.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="encomium">
+            <pb facs="tcp:170285:9" rendition="simple:additions"/>
+            <head>A PANEGYRICK To the moſt Renowned and Serene Princeſſe <hi>CHRISTINA,</hi> By the Grace of God, Queene of Swedland, Gothes, and Vandals.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I conſider this glo<g ref="char:EOLhyphen"/>rious Aſſembly, com<g ref="char:EOLhyphen"/>poſed of ſo many ho<g ref="char:EOLhyphen"/>neſt men; when I be<g ref="char:EOLhyphen"/>hold the happy preſence of ſuch great worthies, illuſtrious by ſo many conſiderations; and laſtly when I caſt my eyes upon this fair and noble Princeſſe, known
+<pb n="2" facs="tcp:170285:10"/>to be the moſt warlike and the moſt generous in the world, who hath fixed her ſtandards, whereſoever ſhe directed her deſires; I cannot but conceive, by a faire feeling of vanity, a good preſage of that which I have purpoſed to ſpeak: for ſuch a value and ſo great a Generoſity, which in you meete, ſo happily uni<g ref="char:EOLhyphen"/>ted, cannot but inſpire me with re<g ref="char:EOLhyphen"/>ſentments, as truly noble as ſub<g ref="char:EOLhyphen"/>lime.</p>
+            <p>But when I advance my ambiti<g ref="char:EOLhyphen"/>ous eyes, and travelling above this middle Region of the Aire, I lift them up to the firmament, there to contemplate the Sunne; I would ſay, when I raiſe them up to your Sacred Majeſty, that divine ſtarre, which there, by its reflection, ſhoots forth beames ſo magnificently, and with ſo great a ſpendor; I almoſt wonder in this dazling, that my repentance don't arreſt my deſigne,
+<pb n="3" facs="tcp:170285:10"/>and that my temerity by being for<g ref="char:EOLhyphen"/>ced into ſilence finds not out a pu<g ref="char:EOLhyphen"/>niſhment for its boldneſſe. Be not aſtoniſhed, my Lords, at my ſur<g ref="char:EOLhyphen"/>prize, though I ſeeme ballanced be<g ref="char:EOLhyphen"/>tweene what I ought to ſay, and what I ought to doe; and though you ſee my cheekes uſurped by a redneſſe, which the acknowledge<g ref="char:EOLhyphen"/>ment of my own diſability to enter<g ref="char:EOLhyphen"/>taine this Aſſembly, hath invited thither. There is nothing ſo naturall to men, as to diſreliſh their fortunes, though it bee in the meaneſt con<g ref="char:EOLhyphen"/>cernments; nor are they leſſe prone to nouriſh a facility to all thoſe things which flatter them; and yet they doe not know the diſſicul<g ref="char:EOLhyphen"/>ty then, when the greatneſſe of the ſubject doth oblige them to humble their vanities. You ſee an example in my perſon: and I ought not to hide from you any of that pompous and divine matter, wherein I had
+<pb n="4" facs="tcp:170285:11"/>figured to my ſelfe this adorable Princeſſe, the object of our admira<g ref="char:EOLhyphen"/>tion, and the ſubject of our diſ<g ref="char:EOLhyphen"/>courſe, though I confeſſe I cannot repreſent her, but in an imperfect Idëa: and therefore it is that at this time conſidering the Carriere which I have purpoſed to accompliſh, and viewing it in all its apprehenſions, I acknowledge the weakeneſſe of my reaſon, that cannot dive into the difficult and counterfeit illuſions of my ſenſes, which, alwaies like to themſelves, and alwaies deceivers, have, under vaine apprehenſions, ſhaddowed forth to me their de<g ref="char:EOLhyphen"/>lightfull Fables. And truly! conſi<g ref="char:EOLhyphen"/>der with me that which I can tell you, of a perſon who hath no quali<g ref="char:EOLhyphen"/>ty but what is divine, and who au<g ref="char:EOLhyphen"/>thoriſeth the diſproportion that ſhe meets with among the vanities of Greece, the pride of Rome, and the tranſcending truths which wee
+<pb n="5" facs="tcp:170285:11"/>ſee with our eyes; all that the one and the other, ingenuous to de<g ref="char:EOLhyphen"/>ceive, would make us beleeve to be more admir'd and greater in their Heroïna's, who have drained the moſt delicate Rhetorick, to furniſh their Nurſlings: 'tis we onely that can make Adorers and Mutes of their Panegyriſts and Oratours, to whom the reſpect to ſo happy a Majeſty, and their inability to ut<g ref="char:EOLhyphen"/>ter, what could neither be conceiv'd nor expreſt, would equally com<g ref="char:EOLhyphen"/>mand a ſilence. In reſpect of this Lady, the purple of Tyre and Sidon have but a languiſhing ſplendor; and the flowers, the faireſt and beſt cultivated, which art (to ſay truth) did ever produce, have but an earthy ſmell and feeble charms, ſince they cannot, unleſſe by ſhamefull Negations, ſay any thing of this mi<g ref="char:EOLhyphen"/>racle of Nature. And this talkative, I might ſay, this proud Eloquence,
+<pb n="6" facs="tcp:170285:12"/>which hath formerly gloried to have beene the beſtower of Eterni<g ref="char:EOLhyphen"/>ty, and the diſpenſatrice of the de<g ref="char:EOLhyphen"/>ſtiny of Kings, finds her ſelfe now puniſhed with juſtice, to gaze upon a Queen, for whom ſhe cannot find words, which may anſwer the dig<g ref="char:EOLhyphen"/>nity of the ſubject; for whom the worlds brighteſt Luminaries, I mean perſons of the greateſt quality, have been either obliged to hold their peace, when they would undertake to ſpeake worthily of her, or elſe contented with an imperfect Orati<g ref="char:EOLhyphen"/>on, and a true acknowledgement, that they can conceive more then they can utter: but yet neither their conceptions nor their imaginations, can, without a manifeſt in ſufficien<g ref="char:EOLhyphen"/>cy, ſignifie the ſmalleſt part of her perfections.</p>
+            <p>So it is, Great Queene, that unleſs you pleaſe to condeſcend, and ſo
+<pb n="7" facs="tcp:170285:12"/>obſcure your perſon, we cannot, in that prodigious elevation, where you are fix't, take notice of you, but with that reverence, wherewith we apprehend the glorious Intelli<g ref="char:EOLhyphen"/>gences, who have no communica<g ref="char:EOLhyphen"/>tion with mortals: The compariſon holds well; for thoſe celeſtiall crea<g ref="char:EOLhyphen"/>tures are of a nature pure like yours; your vertues are great like theirs; and you as well as they do ſuffer, without indignation, men to ſpeake of your Maieſty in tearmes, that carry no proportion to your great<g ref="char:EOLhyphen"/>neſſe. It is that reſplendant good<g ref="char:EOLhyphen"/>neſſe, which makes you proffer thoſe illuſtrious hands (accuſtomed to carry Scepters and ſuſtaine Crownes) to all thoſe who have the honour to approach your ſacred perſon. You can receive all favour<g ref="char:EOLhyphen"/>ably, though they ſhould bring nothing but a little water in their hands, a preſent which a poor Per<g ref="char:EOLhyphen"/>ſian
+<pb n="8" facs="tcp:170285:13"/>once offered to his thankfull Prince.</p>
+            <p>Theſe are the glorious reaſons, my Lords, which have put me in the way, from which I began to wander, and have throughly con<g ref="char:EOLhyphen"/>firm'd me in the deſigne which I have taken, to give you a Character of that divine Princeſs, who puts a Confidence into all that approach her with feare, confirmes them that tremble in their reſpects, and encou<g ref="char:EOLhyphen"/>rageth thoſe, whoſe Modeſty per<g ref="char:EOLhyphen"/>mits not their eyes to enjoy the free<g ref="char:EOLhyphen"/>dome of Nature. Let us draw neere therefore, but let us draw neer with hearts ſanctified, and with expreſ<g ref="char:EOLhyphen"/>ſions not intending ſo much to be choiſe, as purified from all that, which might ecclipſe or diminiſh the luſtre of a vertue ſo eminent. Let us approach with the ſame hu<g ref="char:EOLhyphen"/>mility as men pay to the Deity, ſince we muſt come to a Queene,
+<pb n="9" facs="tcp:170285:13" rendition="simple:additions"/>who is the moſt glorious Type and magnificent Copy of that inviſible Originall. But if our ſmall merits, the great defects that are in us, and a thouſand other conſiderations, be ſtil our impediments, let us imagine that heaven takes a pleaſure to hear her name ſung, though from the mouthes of Infancy and Ignorance; and laſtly, conſider, that we cannot ſpeake of any thing that is great, when wee begin to diſcourſe of the Great Chriſtina.</p>
+            <p>Thoſe who have a reſolution to pron ounce the Elogy of any illuſtri<g ref="char:EOLhyphen"/>ous perſon, after they have intrea<g ref="char:EOLhyphen"/>ted their Auditors to afford them a favorable ſilence, and honour them with a calme attention, they are u<g ref="char:EOLhyphen"/>ſually accuſtomed to cut off thoſe things that are farre from their matter, and yet to ſpeake not a lit<g ref="char:EOLhyphen"/>tle of the fathers of thoſe upon
+<pb n="10" facs="tcp:170285:14"/>whom they build their diſcourſe. But I ſhall not tread in their ſteps, for it is impoſſible that any ſhould live ignorant, that the father of our Princeſſe, was the greateſt King and the greateſt Conquerour in the world. All mouthes have ſaid it; all tongues have pronounced it; all hearts have agreed to it; and all people have confirmed it: what then is it, that we can produce to enter<g ref="char:EOLhyphen"/>taine your eares, which hath not a thouſand &amp; a thouſand times been ſpoken of that illuſtrious Monarch, whoſe actions and invincible cou<g ref="char:EOLhyphen"/>rage attracted the admiration of all thoſe, who were ſo happy as to ſee him fighting. Nevertheleſſe (by the way) wee may glance upon that, which our Hiſtories of France have gloriouſly preſerved: It is recorded that this good King, a little before the pale hand of Death had ſeized upon his perſon, being inſpired by
+<pb n="11" facs="tcp:170285:14"/>ſome prophetick thoughts, told his people that they would be the cauſe of his death, being they put too great a confidence and ſecurity in his courage; for, they began to judge him immortall, by thoſe im<g ref="char:EOLhyphen"/>mortall actions which they had ſeene him performe, and the perils to which with an incredible ſuc<g ref="char:EOLhyphen"/>ceſſe, hee had expoſed his ſacred perſon. This was a propheſie in its effects too true, and deplorable to as many as were Chriſtians: and without doubt God to chaſtiſe our pride, and put us in minde of our brittle conſtitutions, ſummoned up to heaven that pure vertue, in the flower of his age, after he had plen<g ref="char:EOLhyphen"/>tifully adorned him with bleſſings here below, &amp; had made him carry with him, the two glorious and de<g ref="char:EOLhyphen"/>ſerved titles, of a King and Prophet.</p>
+            <p>But let us travel no farther; let us not touch that Marble and that
+<pb n="12" facs="tcp:170285:15"/>Jaſpar, which have beene faſhioned by the moſt ingenuous workmen of our age; let us reſt fatiſfied that we ſee him live in her, who ſo happily enjoyes his Greatneſſe; and, if by one excellent name we would eter<g ref="char:EOLhyphen"/>nize, and render him the Admirati<g ref="char:EOLhyphen"/>on of all the world, let us ſay he was the worthy Father of our Queene: But! when I ſay he was the father of our Queene, what can be ſaid that hath not beene already ſpoken, and drawne from him by an infallible conſequence? ſince it is not poſſible, that the incomparable Chriſtina, could have a father leſſe heroique then Guſtavus the Great, or that the Great Guſtavus could have a daughter more excellent then Chriſtina. Both of them are the miracles of their Sexes; both, the Terrours of their age; and both the Admiration and delights of their people. But there is this difference
+<pb n="13" facs="tcp:170285:15"/>betweene them. That if Guſtavus hath been the Model of the perfecti<g ref="char:EOLhyphen"/>ons of Kings, if he alone hath en<g ref="char:EOLhyphen"/>groſſ't all thoſe vertues which the greateſt Princes of our age, could have wiſh't to have enſhrin'd in their owne breaſts; yet Chriſtina enjoyes the higher preferment, and hath not only been the Coppy of that King, whoſe dignity ſhe poſſe<g ref="char:EOLhyphen"/>ſſeth, but laſo the illuſtrious Abridgment of all thoſe vertues, that conduce to the accompliſh<g ref="char:EOLhyphen"/>ment of Kings and Queenes, Sub<g ref="char:EOLhyphen"/>jects and Soveraignes. This Throne could not be furniſhed with a more emient perſon, this faire Scepter could not be managed by more glorious hands, and theſe Crownes could not be ſet upon a head more beautifull and more ſufficient; for ſuch a burden would have oppreſſ't any perſon, that had beene leſſe re<g ref="char:EOLhyphen"/>ſolv'd, or leſſe diſcreet then you.</p>
+            <pb n="14" facs="tcp:170285:16"/>
+            <p>It is not at all my endeavour to relate, how ſhe hath attain'd to all thoſe endowments, wherein her ſoule glitters with an extraordinary brightneſſe; &amp; though I ought (that ſo I might hinder perſons from being ſurpriz'd at the infinite great<g ref="char:EOLhyphen"/>neſſe of her merit) to begin the Hiſtory of her life from her Cradle: yet I will not ſay any thing of the Infancy of a Lady, whoſe age never found its parallell, who could rea<g ref="char:EOLhyphen"/>ſon as ſoone as ſpeake, and whoſe vertues did not attend, but out<g ref="char:EOLhyphen"/>ſtrip the courſe of her yeares: but ſeeing it is the Queene of Sweden of whom I ſpeake, I will not ſet her forth to you but upon a Throne, nor will I ſay any thing of the Princeſs Chriſtina; till her ability to govern hath adorn'd her with a Diademe.</p>
+            <p>If I were to make an Oration be<g ref="char:EOLhyphen"/>fore a ſtrange Court, or if I were to ſpeake to perſons, who have not
+<pb n="15" facs="tcp:170285:16"/>had the honour to ſee, and diſcourſe of the naturall Graces of this Prin<g ref="char:EOLhyphen"/>ceſſe; I might haply at this time have found an occaſion to deliver the deſcription and Idea of your beauty, while I explaine that of your perſon: but it would argue me to be a man of a ſhallow Judg<g ref="char:EOLhyphen"/>ment, and ſo no conſideration to draw a bad Coppy in a place, where the Originall can be its owne Ora<g ref="char:EOLhyphen"/>tour and appear with ſo much lu<g ref="char:EOLhyphen"/>ſter. Let us only ſay, that ſhe hath a Character of Greatneſſe and Maieſty ſtamp't in her forehead, which com<g ref="char:EOLhyphen"/>municates it ſelf to her very pict<g ref="char:EOLhyphen"/>tures; and ſo reflects upon thoſe, who regard them, that is imprints in them a Reverence, full of reſpect and feare. But it is not only the comelineſſe of her perſon that ſets her forth with ſo much approbation, but alſo the Greatneſſe of her Soule, the Nobleneſſe of her inclinations,
+<pb n="16" facs="tcp:170285:17"/>the Generoſity of her heart, and the Sharpneſs of her wit. But let us take a view of that which fals into the apprehenſion of our ſenſes: ſhe delivers herſelf to all the Ambaſſa<g ref="char:EOLhyphen"/>dors that come to her Court in the language of their owne Nation; but with ſuch a facility, ſuch an Elo<g ref="char:EOLhyphen"/>quence, and ſuch a grace; that it quickly calls up their admiration. Her knowledg is not limited only to the underſtanding of forrein Languages, which ſhe ſpeakes as fluent as her owne, but there is no Science in which ſhe is unlearned. She hath an unalterable Stability in her reſolutions, a Faith inviolable to her Allies, and in a word, the whole ſtock of Royall vertues ſtand united together in her faire ſoule. This is ſhe that hath lately chaſed the Imperial Eagles, and defeated ſo many Armies, to eſtabliſh that Religion, which thoſe furious per<g ref="char:EOLhyphen"/>ſons
+<pb n="17" facs="tcp:170285:17"/>endeavored to ſuffocate: and this is ſhe that hath given breath to thoſe Princes, who had put themſelves under her protection; that hath broken the forces, which that proud Family had prepared in Germany; and laſtly, that hath reſtor'd that Country's liberty, which was ſo neere threatned with a cruell ſer<g ref="char:EOLhyphen"/>vitude and ſlavery. Heare me, O Germany; I ſay, it is not to any but this bleſſed Queene, to whom thou ſtand'ſt indebted for all the joyes, and all the delights of thy peace; it is ſhe that hath ſtopped the courſe of thy blood; it is ſhe that hath fil<g ref="char:EOLhyphen"/>lited up thy envenomed woundes with her owne royall reliefe, which ſhe never ſpared when thy ſafety begg'd it.</p>
+            <p>So glorious a travail, ſo long a warre, and ſo many advantagious victories, doe well deſerve, That repoſe and divertiſements ſhould
+<pb n="18" facs="tcp:170285:18"/>follow, That magnificence ſhould deck their palaces, and that Their warlike and tumultuous thoughts ſhould be converted into peace and tranquillity. And now there cannot be but a great pleaſure in the fruits of victory; To be attended by the bleſſings of the people, to receive the Homages of Princes reſtored to their liberties, and, in a word, to be courted by the acclamations of all Europe, and the whole world: This we have hitherto ſeene, upon the forceing of Citties, defeating of Armies, &amp; conquering of Crownes. She hath inherited the Realmes and provinces of the Great Guſtavus: ſhe hath enjoyed by a naturall ſuc<g ref="char:EOLhyphen"/>ceſſion, the beauty of his ſpirit, and the Graces of his body: but above theſe qualities of ſucceſſion, and hereditary Graces, ſhe hath acqui<g ref="char:EOLhyphen"/>red a large addition of her own. She is both modeſt and magnanimous,
+<pb n="19" facs="tcp:170285:18"/>eloquent and learned, gracious and Majeſticke, her beauty is alſo a beauty illuſtrious and full of ſplen<g ref="char:EOLhyphen"/>dor, a beauty of command, a beauty of action, and (which is more, a beauty couragious and maſculine; but to adde ſomething that is great<g ref="char:EOLhyphen"/>er then all this, it is the beauty of a Princeſſe. Her proportion is perfect, her Countenance confident, her Decorum lofty and daring, her Eyes ſhining and full of fire, and all her exteriour parts equall to thoſe which painters give to vertue and victory. Al which happy ornaments render her to the view full of Dig<g ref="char:EOLhyphen"/>nity, and an Authority no leſſe a<g ref="char:EOLhyphen"/>greeable then comely, which can perſwade without ſpeaking, and ſubdue ſoules with lookes. Yet to encreaſe your wonder, this body which is ſo perfect, is inhabited by a ſpirit that excels it, and which ſits there, like a faire Intelligence in a
+<pb n="20" facs="tcp:170285:19"/>beautifull Planet. She is expert in the Science of Princes, and there<g ref="char:EOLhyphen"/>fore in her owne: She is ſkilled in Politicks, and the art Military: ſhe equally enjoyes the knowledge of all thoſe things that are ſuitable and profitable. She is ſo well read in Hiſtory, as well in the one as the other, as well in the Ancient as the Moderne, as well in that of the Church, as that of the World, that ſhe her ſelf is the very Annales a<g ref="char:EOLhyphen"/>bridg'd: and in this ſhe hath out<g ref="char:EOLhyphen"/>ſhone the glory of the moſt illuſtri<g ref="char:EOLhyphen"/>ous Conquerours that were as re<g ref="char:EOLhyphen"/>nowned by their pennes as their ſwordes, and who at night compoſ<g ref="char:EOLhyphen"/>ed in their Tents, whatſoever in the day time they had performed in the field.</p>
+            <p>But let as paſſe-by theſe ambigu<g ref="char:EOLhyphen"/>ous Elogies and theſe equivocal Titles, we have ſom that are proper and particular. Let us not only ſay
+<pb n="21" facs="tcp:170285:19"/>that Chriſtina is deſcended from a long ſucceſſion of Kings, that Crownes and Scepters have beene for many ages the portion of thoſe her Anceſtors, who have been en<g ref="char:EOLhyphen"/>rowled in the throng of that illu<g ref="char:EOLhyphen"/>ſtrious Family; this is a praiſe in which ſhe ſhares with other Princes, and in which other Kings may have a propriety as well as ſhe. There is none but would perceive a vanity in ſuch ſtrange commendations. Let us not ſeeke any thing of that na<g ref="char:EOLhyphen"/>ture for our Queene, who hath them as her proper and naturall en<g ref="char:EOLhyphen"/>dowments: let us not throw away our praiſes upon glaſſe and a coun<g ref="char:EOLhyphen"/>terfeit brightneſſe, where we can entertaine our eyes with ſo many Diamonds and ſo much luſtre. Let us rather ſay that ſhe hath a heart more high, a ſoul more Royal, and a Reaſon more ſoveraigne, then all thoſe Kings and Queenes, from
+<pb n="22" facs="tcp:170285:20"/>whom ſhe drawes the greatneſſe of her Original. Let us not eſteeme of that beauty, which is as well com<g ref="char:EOLhyphen"/>mon to the Poppy as the Roſe, as well to the unruly as the chaſt, as well to the luxurious as the modeſt; but of that, which is vertuous and well diſciplin'd, of a good report and a faire example. Let us not praiſe her Graces, nor her Judg<g ref="char:EOLhyphen"/>ment; but let us extoll the modeſty and continency of her Graces; let us commend the greatneſſe and equality of her Judgment. Let us not ſpeake of her Liberalities, ſince there be perſons both liberall and unjuſt together; or elſe let us ſay that they are in her choiſe, and done with method. In fine, let us admire the veneration, which ſhe continually hath for all perſons, that have made any progreſſe in know<g ref="char:EOLhyphen"/>ledge or vertue: witneſs, thoſe harmleſſe Intelligencers, which ſhe
+<pb n="23" facs="tcp:170285:20"/>hath in all places of the world, to take notice of thoſe, who are en<g ref="char:EOLhyphen"/>riched with any extraordinary me<g ref="char:EOLhyphen"/>rit: theſe are they whom ſhe truly lookes upon, as ſubjects worthy her Liberality: and I am ſure there was never any perſon that did not re<g ref="char:EOLhyphen"/>ſpect her as much, as if ſhe had beene his lawfull Queene: Alſo the Muſes, eſpecially thoſe in the French lauguage, have not beene wanting to extoll the greatneſſe of that ver<g ref="char:EOLhyphen"/>tue, which hath ſo well rewarded them; And certainly they would be very ingratefull, if they ſhould not commend, or if they ſhould deny ſuch iuſt acknowledgments to her, who is ſo favourable to them, and who hath prevented their wants, by a ſupply from her owne benefits: This Princeſſe is the cauſe why they are altogether ſo triumphant, for ſhe entertaines them as her familiars and companions, ſhe ſports with
+<pb n="24" facs="tcp:170285:21"/>them in proſe and verſe, but the paſtime never concludes without ſome preſent, which produceth a ſmoothneſſe in their periods, and puts life into their ſtanza's,</p>
+            <p>But let us traverſe her Royall vertues only, &amp; ſeeke thoſe which altogether compoſe the Abridg<g ref="char:EOLhyphen"/>ment, and frame up the Idea of an accompliſh't Queene: for we would not have our Reaſon ſticke in one place, or imploy all its endeavours about one thing, where ſhe may elect ſo many, that are equally wor<g ref="char:EOLhyphen"/>thy to be choſen. It is impoſſible that we ſhould praiſe all the ver<g ref="char:EOLhyphen"/>tues of our Princeſſe in ſingulars, becauſe our eyes cannot ſo well diſtinguiſh them among ſo great a multitude. But ſhe hath ſome that are reſerv'd and particular, which are therefore the more conſiderable, becauſe they are leſſe common, and becauſe they are ſuch that when we
+<pb n="25" facs="tcp:170285:21"/>once know them, our eyes are too feeble to looke upon them with a fix't aſpect, or to ſee them in all their dimenſions there are con<g ref="char:EOLhyphen"/>ſtantly ſome of divers orders and divers degrees, ſome of all Sexes, as well as of all Ages, of all conditions and of all times, of Majeſty and hu<g ref="char:EOLhyphen"/>mility, and laſtly, the ornaments both of Princes and ſubjects. Theſe which are of the latter and nobler ranke diſperſe their bleſſings about the Nation, and are of foure ſortes; Juſtice, Prudence, true-Glory, and Piety: Theſe are the foure wheels that guide the revolutions of Em<g ref="char:EOLhyphen"/>pires, and conſtitute the deſtiny of Monarchies. The firſt maintaines peace in the Nation, renders to every one his owne, and ſecures the poore from oppreſſion. The ſecond dives into, and diſſipates the Coun<g ref="char:EOLhyphen"/>ſels of enemies, prepares them for ruine, and aſſures a quietneſſe in the
+<pb n="26" facs="tcp:170285:22"/>State, as well by the ſtrength of the mind as the courage of the hand. The third drawes a reputation from all things. And the laſt crowns the endeavours of all the reſt. Our Queene enjoyes them all, but not after that rate, as they are poſſeſs't by the world's greateſt Princes, who preſerve them only as ſervants to their paſſions; They make their Cruelty to paſſe currently for the effects of Juſtice; they imagine their breach of faith and ſubtilties, to be a weighty argument of Pru<g ref="char:EOLhyphen"/>dence; their pride and diſdaine, to be the materials of a true Glory; and laſtly, their infamous Superſti<g ref="char:EOLhyphen"/>tion and ſhamefull Idolatry, to con<g ref="char:EOLhyphen"/>ſtitute the exacteſt and beſt ordered Piety. But our Chriſtina is ignorant of theſe adulterate vertues, and counterfeit vices: Diſguiſe and Diſſimulation are the two evils which ſhe principally hates and
+<pb n="27" facs="tcp:170285:22"/>derides: and yet when thoſe appeare in another, ſhe hath ſo great a reach that ſhe can unvaile and unmaſke their darkneſſe. In this manner ſhe hath reclaimed thoſe faire, though ſtragling vertues, which had beene long baniſh't from the Courts of Kings and Princes, and which at laſt have attain'd an Aſylum, under the protection of this adorable Queene, who hath extended her welcomes to relieve thoſe amiable proſtrates. This is ſhe who is the true Pole of the Chriſtian world, whereon the whole Catalogue of beauties are diſplayed; it is ſhe that hath ſuch an attractive vertue, as can allure to her obedience, the moſt ſtubborne and rebellious ſoules, if they be but once touch't with that divine Load ſtone.</p>
+            <p>That Juſtice which is only morall, is (to ſay truth) nothing elſe but an authoriz'd opinion; it is a cruell and
+<pb n="28" facs="tcp:170285:23"/>unmercifull Tradition; it is a lawful offendor and in the ſcrupulous ob<g ref="char:EOLhyphen"/>ſervation of Mine and Thine, ſuf<g ref="char:EOLhyphen"/>fers with unrelenting thoughts the deareſt perſons to be deſpiſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and ruin'd. But that of our Queene is of another conſtitution it is an up<g ref="char:EOLhyphen"/>right, an all-ſeeing, and a gentle Juſtice, but yet a Juſtice that was alwayes abſolutely perfect. And we can reſolutely ſay, ſhe is ſo juſt as to ſhake off all her choiceſt Inclinati<g ref="char:EOLhyphen"/>ons, rather then to doe the leaſt wrong to the meaneſt of her Sub<g ref="char:EOLhyphen"/>jects: and if this vertue which is the foundation of all the reſt, findes at any time any reſiſtance to hinder the carrying on of its reſolutions, it is only her Clemency, that enclines her pardon to reach ſome notorious Malefactor. In a word, all her acti<g ref="char:EOLhyphen"/>ons are ſo curiouſly cemented to the high ſeverity of Juſtice, and the calme ſweetneſſe of Mercy, that a
+<pb n="29" facs="tcp:170285:23"/>thouſand happy reſults ſpring from theſe two Vertues, and make her equally feared and loved by her people.</p>
+            <p>That prudence which the world breathes, and the Kings of the earth put in practice, is uſually no other then an inſtructed and diſciplin'd Malice; it is nothing but a vertue tempered with flegme, and managed with artificiall motions. But that of Chriſtina is ſo purified as well with<g ref="char:EOLhyphen"/>in as without, that it expels all Forgery and Deceit, and knowes not what is mean't by being capti<g ref="char:EOLhyphen"/>ous or doubleminded: One may relye upon her word with more aſſurance then upon the oathes of others Her Lights cannot be falſe, being derived from ſo much Noble<g ref="char:EOLhyphen"/>neſs, and an Originall ſo pure and cleare: they cannot be erronious, being ſprung from ſo much Juſtice, and aiming at a concluſion ſo right
+<pb n="30" facs="tcp:170285:24"/>and ſo honourable. She with her owne perſon is aſſiſting to all her Councels, ſhe is throughly inſtruct<g ref="char:EOLhyphen"/>ed in all her affaires, and under<g ref="char:EOLhyphen"/>ſtands them ſo admirably, that there is not a perſon can taxe her proceed<g ref="char:EOLhyphen"/>ings; nor can any one reproach her, that by any neglect or ſlackneſſe ſhe hath with-held any thing for baſe ends, or that ſhe ever ſought to ſecure her actions by an artificiall prudence. And though ſhe alone ſupports the burden of her eſtate, yet her ingenuity is ſo quick and piercing, that ſhe is not at all en<g ref="char:EOLhyphen"/>tangled in the greatneſſe of her im<g ref="char:EOLhyphen"/>ployments: her vaſt Genius, which might governe the whole world, and her able Prudence to which all the kings of the earth might confi<g ref="char:EOLhyphen"/>dently and with great aſſurance, deliver up the conduct of their whole Eſtates, findes not any thing in the largneſſe of her dominions,
+<pb n="31" facs="tcp:170285:24"/>that can be altogether her imploy<g ref="char:EOLhyphen"/>ment. What is there then that can be compared to the ſituation of a ſoule, and the ability of a wit, that can dive into the bottom of all things: for prudence hath given her a looke beyond others, hath fix't her in a ſeate that over-awes fortune, and is of ſuch force that we may well ſay Agamemnon had reaſon in his ordinary wiſhes, to deſire rather ten men as circumſpect as Neſtor, then as valiant as Achilles: for in effect that petty Prince of a poore Iland, having attaine'd the favour and guifts of the prudent Minerva, was the principall author of the ſurprizing one of the grea<g ref="char:EOLhyphen"/>teſt Citties, that the world ever knew.</p>
+            <p>The love of glory ſuites well with thoſe vertues, which are in heroique perſons; it breathes ſpirit into their actions, and ſpurs them forward to
+<pb n="32" facs="tcp:170285:25"/>performe great things, for no other conſideration, then, That they doe them. This is that only vertue which is not at all mercenary, and ſcornes to demand any thing for recompence of ſervice done to the Republick, unleſſe, the glory to have ſerved her freely and without reward. Thoſe glorious Romans, whom Hiſtory makes us (as'twere) to ſee to this day, were all poſſeſſed by this humour, when they enter<g ref="char:EOLhyphen"/>priz'd thoſe famous actions, of which yet the very memory af<g ref="char:EOLhyphen"/>frights us. They would attempt &amp; bring to paſſe, things that were ap<g ref="char:EOLhyphen"/>parently impoſſible, and whoſe only mention would ſtrike terrour into the greateſt Princes of our age. Ancient men would appeare in the Armies, they'd ſeeke out a multi<g ref="char:EOLhyphen"/>tude of Combats, ſo to draw on the occaſion of a battel, and, among a thouſand dangers, they'd ſtill labour
+<pb n="33" facs="tcp:170285:25"/>how to be imploy'd in the grea<g ref="char:EOLhyphen"/>teſt.</p>
+            <p>But why doe you thinke they hunted after ſo many perils and Combats? would you have me tell you the reaſon? It was to obtaine a Triumph, to behold their Statues fix't in the publick view, and to purchaſe to themſelves a new and honourable Name. But yet this Statue ſerved for no more then an unprofitable Marble, and this name augmented not their fortunes, but only in the addition of three or four Syllables. After the ſame manner were thoſe Recompences that were beſtowed upon the Illyrians, Mace<g ref="char:EOLhyphen"/>donians, Numantines, Achaians, Africans, and many others, who for theſe things only, have willingly beene prodigall, both of their paines and blood, to promote the credit of their Countries. But our Queene li<g ref="char:EOLhyphen"/>mits her glory by a concluſion farre
+<pb n="34" facs="tcp:170285:26"/>more illuſtrious: Vanity ſwels not her ſoule; but Generoſity only, makes her the performer of ſo many noble actions: It is not at all to get a freſh addition of Titles, or procure her ſelf a new name, for ſhe can not pitch upon a choice more faire or more famous then her owne; but it is for the only reputation, To have done nobly: There never ap<g ref="char:EOLhyphen"/>pear'd a glory comparable to her's. The envious and the miſtruſtfull would make us beleeve that the Graces could not well be linkt with the Vertues, and that the faire and the knowing, prov'd very ſeldome to be the chaſte and the modeſt. But ſhe hath given the lye to thoſe mu<g ref="char:EOLhyphen"/>tinous and ſuſpitious perſons; and thoſe who have talked much of Elizabeth of England, Marguerite of France, Eleanor of Spaine, Bea<g ref="char:EOLhyphen"/>trice of Portugal, have not adven<g ref="char:EOLhyphen"/>tur'd to compare them to ſo cleare
+<pb n="35" facs="tcp:170285:26"/>a reputation. Vertues uſ'd in their Mediocrity, are uſually the ſubjects of Envy: men impute crimes to them, of which they are altogether Innocent, or at leaſt ſlenderly culpable: the ſmalleſt blemiſh, and the ſmalleſt irregularity, doth ordi<g ref="char:EOLhyphen"/>narily procure ſome advantagious colour for a reproach. But! that of Chriſtina is of another degree, and of another compoſition; ſhe ſits en<g ref="char:EOLhyphen"/>thron'd above the reach of Calum<g ref="char:EOLhyphen"/>ny, in a word ſhe is all celeſtiall, all pure, and all divine. Who can then find fault with her, who is more illuſtrious then Auguſtus or Livy, more wiſe then Cornelia, more faire then Helen or Cleopatra, and in fine, more chaſt and more pure, then all the Sybils of Greece, or the Veſtals of Rome. She hath in her ſelf the true reſemblance of Zenobia, Eu<g ref="char:EOLhyphen"/>doxia, Amalazonta, and all thoſe things, that even to theſe happy
+<pb n="36" facs="tcp:170285:27"/>dayes the world hath ſeene to pro<g ref="char:EOLhyphen"/>ceed from the moſt illuſtrious and greateſt Hero's.</p>
+            <p>But let us diſcourſe a while of that raigning and Victorious piety, and of that Chriſtian devotion, which the faire name of Chriſtina defines ſo perfectly. Tis without doubt a proud and profane piety, which the great ones practiſe; they make it only ſerve their affaires, and uſe it no farther then their intereſt ob<g ref="char:EOLhyphen"/>liegeth them. But Her's beares no likeneſſe to theſe ordinary pieties, nor to thoſe devotions which are only for ſhow, and conſiſt altoge<g ref="char:EOLhyphen"/>ther in appearance: Her's are of a higher elevation, and warm'd by a zeale, much differing from thoſe, who limit their meditations to a ſeeming modeſty, and ſignify them in three or four teares, ſqueez'd from their eyes by force. Her Reli<g ref="char:EOLhyphen"/>gion is not a preciſe, nor conceited
+<pb n="37" facs="tcp:170285:27"/>Religion, it is neither ſcrupulous nor profane. But farre otherwiſe is that of thoſe artificiall and diſguiſed penitents, who compoſe their moti<g ref="char:EOLhyphen"/>ons, and proportion their Geſtures, to the eyes and obſervation of o<g ref="char:EOLhyphen"/>thers, who have their Countenances muſing, their faces moiſt with teares, and pray only becauſe it is a cuſtome; and in fine, who mock themſelves in private, for that which they had done in publike, and laugh at thoſe perſons in their Clo<g ref="char:EOLhyphen"/>ſets, before whom they had play'd the Counterfeits in the Church. But Chriſtina, totally averſe from this Hypocriſy, drawes from the bot<g ref="char:EOLhyphen"/>tom of her heart, the fire, the In<g ref="char:EOLhyphen"/>cenſe, and the victime of thoſe ſacri<g ref="char:EOLhyphen"/>fices, which ſhe offers: and, which is more agreeable to the Infinite Maieſty, then all the Gummes of the earth and ſea, and which plea<g ref="char:EOLhyphen"/>ſeth his palate more, then the fat
+<pb n="38" facs="tcp:170285:28"/>and blood of murd'red flocks; ſhe alwayes preſents him with the con<g ref="char:EOLhyphen"/>trition of a heart that is ſoveraigne, with the humility of a head that is crowned, with thoughts humble and full of worſhip, and with an Authority, not only ſubmiſſive but alſo religious. Her goodneſſe yet paſſeth farther, and her aime is much more excellent then report pro<g ref="char:EOLhyphen"/>claimes it; her care and endeavours move ſtrongly for the propagation of the faith, for the defence of God's name, for the ſurety of his people, for the peace and quietneſſe of her eſtate, and for the tranquillity of the whole Chriſtian world.</p>
+            <p>We may alſo ſay that this is the common good of her Realms, that it is her piety, which is the Tutreſſe of her dignities, the Directreſſe of her actions, and the Overſeer of her policies. It is this, from whoſe advice, all her vertues of warre and
+<pb n="39" facs="tcp:170285:28"/>peace, as well the rumultuary as the pacificke, as well the outragious as the calme, receive their directions and conduct; and in a word, this is that vertue to which our Princeſs is ſo much devoted, that we may call it her commanding vertue. Is it not this piety, and this love of God, O you Swedes, that hath chained For<g ref="char:EOLhyphen"/>tune to your party, when the death of your late king, ſeemed to ſet her at liberty? Is it not this that hath eſtabliſhed your reputation, which was very likely to follow the recoile of that wavering Goddeſſe? Was it not ſhe that crowned the aſhes of that good Prince, who led victory to his funeralls, who gave reſolution and courage to the fainting Swedes, and who made them looke upon their enemies with couragious and terrible teares, and fight with a ſadneſſe reſolute and triumphant, in a time when the miſerable a<g ref="char:EOLhyphen"/>ſſaults
+<pb n="40" facs="tcp:170285:29"/>of a matchleſſe ſorrow, did ſcarce give her eye the power to diſtinguiſh her owne party.</p>
+            <p>O with what aſtoniſhment and ad<g ref="char:EOLhyphen"/>miration together, did the wiſeſt of the earth, and the moſt ſharp witted of that age, looke upon this mar<g ref="char:EOLhyphen"/>vellous Spectacle, when they began to examine, whether their prudence could have beene ſo capable, and whether their imginations could have mounted ſo high! when, I ſay, they conſidered a young Queene, ſtrugling all alone againſt ſo great and dangerous a tempeſt; when they ſaw how ſhe had overthrowne her enemies, as young and tender as ſhe was. She made a ſure conqueſt, and brought all things to a faire iſ<g ref="char:EOLhyphen"/>ſue, after an infinite number of vict<g ref="char:EOLhyphen"/>ories and Combats. Thus after the revolution of many yeares, ſhe re<g ref="char:EOLhyphen"/>turned ſafe to her harbours in ſpight of wind and ſeas, loaded with the
+<pb n="41" facs="tcp:170285:29"/>Colours and Enſignes of the con<g ref="char:EOLhyphen"/>quered, ſtuff't with their pillage, and adorn'd with a thouſand other markes of victory. God relieves thoſe that are his, he diſtributes his aſſiſtance to thoſe that feare him, and he hath made us all ſee in this example, thoſe illuſtrious markes of his goodneſſe, which he hath al<g ref="char:EOLhyphen"/>wayes communicated to thoſe crea<g ref="char:EOLhyphen"/>tures, in whom he findes the true Symptoms of a ſincere piety and a reall devotion. O who of our poſterity will beleeve, that in our time there ſhould be a Queene, ſuch a one as the great Solomon could never find in his? who will thinke, that he could breath out his wiſhes and deſcriptions for a woman, and yet we to enjoy his deſires, and her! Solomon that pompous and magni<g ref="char:EOLhyphen"/>ficent king, did never, in all his glory, ſee any thing like to our Queene: and he is obliged to con<g ref="char:EOLhyphen"/>tent
+<pb n="42" facs="tcp:170285:30"/>himſelf, to have drawne twenty ſix ages paſſ't, a faire picture, or ra<g ref="char:EOLhyphen"/>ther a faire imperfection of her, ſince that all that he hath ſaid in his time of a powerfull woman, was not ac<g ref="char:EOLhyphen"/>compliſh't but in ours. Behold here then this renowned Queen, whom poſterity though never ſo indulgent to antiquity, will ſcarce ever take the paines to beleeve; but ſhee will ſtagger in her faith, when ſhe under<g ref="char:EOLhyphen"/>ſtands, that her very infancy had the prudence of old men, the juſtice of the moſt juſt, the glory of ſoules advanc't, and the piety of Soules ſanctified; Will ſhe not rather be<g ref="char:EOLhyphen"/>leeve, judging by the actions of her life, which appeare like ſo many prodigies, that ſhee came into the world, high, great, faire, and rea<g ref="char:EOLhyphen"/>dy armed, as once Poeticall inventi<g ref="char:EOLhyphen"/>ons faigned of the wiſe <hi>Minerva?</hi> That <hi>Alexander,</hi> who is knowne by the name of Great, findes much in<g ref="char:EOLhyphen"/>credulity
+<pb n="43" facs="tcp:170285:30"/>among us, when we read the Hiſtory of his life; how at the age of nineteen yeares being then an Orphan, hee by his proſperous valour overcame all difficulties, and ſcatter'd all thoſe obſtacles, that had interpos'd and hindered him, from aſcending the throne of his Father; and how at thoſe youth<g ref="char:EOLhyphen"/>full yeares, he aſſured the poſſeſſion of his tottering eſtate, ſo devided at home, and in confuſion with his Neighbours. But what will poſte<g ref="char:EOLhyphen"/>rity ſay, when in a ſex leſſe vigo<g ref="char:EOLhyphen"/>rous by nature, and in an age leſſe advanc't by time, ſhe ſhall ſee that which ſurpaſſeth thoſe won<g ref="char:EOLhyphen"/>ders, which ſprang up in the raign of <hi>Alexander.</hi> If the firſt found theſe diviſions at home; <hi>Chriſtina</hi> findes her ſelfe grapling with one of the moſt puiſſant families of Europe: If <hi>Alexander</hi> encountred many dif<g ref="char:EOLhyphen"/>ficulties,
+<pb n="44" facs="tcp:170285:31"/>to eſtabliſh his dignity, <hi>Chriſtiana</hi> hath beheld her ſelfe em<g ref="char:EOLhyphen"/>barked in a holy, yet a bloody, War, as ſoon as ever ſhe attain'd the Throne: The firſt had nothing to do, but to quell Mutinies; but <hi>Chriſtina</hi> was entangled in heredi<g ref="char:EOLhyphen"/>tary broiles.</p>
+            <p>Magnificence is yet a vertue of the greateſt Souls, and the high<g ref="char:EOLhyphen"/>eſt fortunes, and is not baniſh'd from her Court: There one ſees nothing, but coſtly Feaſts, one ſees nothing there, but innocent Re<g ref="char:EOLhyphen"/>creations and ſpirituall Pleaſures; and if any one deſires a liberality that ſhould be pompous and he<g ref="char:EOLhyphen"/>roick, all the world knowes, and many by their own experience can teſtifie, that this great Queen de<g ref="char:EOLhyphen"/>livers out her bounties ſo freely, as if God had eſtabliſh'd her in his room, to deal out his bleſſings, and enrich thoſe that are his. She doth
+<pb n="45" facs="tcp:170285:31"/>not onely extend her charity to thoſe that ask it, but to thoſe alſo, who neither pretend nor expect any thing: ſhe gives much, and de<g ref="char:EOLhyphen"/>layes not; ſhe gives cheerfully, and repents not; and, in fine, Liberali<g ref="char:EOLhyphen"/>ty is a vertue, which ſhe practiſeth after ſo noble and generous a man<g ref="char:EOLhyphen"/>ner, that ſhe ſtretcheth it ſo far, as it may be called liberality; and ſhe cannot extend it farther, without making it ceaſe to be a vertue. She doth not at all counterfeit the li<g ref="char:EOLhyphen"/>berall or the magnificent, for it would be a hard matter for her, to keep her ſelfe from not being ſo: Therefore ſhe need not ſtruggle for a diſguiſe, or labour to ſeem that which ſhe is. While ſhe permits her ſelfe to follow the ſtreame of her own inclinations, ſhe can never fall into any thing, but what is juſt and vertuous; and therefore her good actions flowing from their Origi<g ref="char:EOLhyphen"/>nall,
+<pb n="46" facs="tcp:170285:32"/>and not being drawne out by violence, as thoſe of many Heroes have been, nor overflowing their banks, as thoſe of ſome Prodigalls, are not leſſe admired for their eaſi<g ref="char:EOLhyphen"/>neſſe and continuance, than for their luſtre and magnificence. Thus ſhe is the honour of her age, and the generall benefit of the world; the <hi>Sun</hi> may ſooner wrap his flames in eternall darkneſſe, and haſten<g ref="char:EOLhyphen"/>ing Rivers ſtop their motions, then <hi>Chriſtina</hi> ceaſe to exerciſe her good<g ref="char:EOLhyphen"/>neſſe. A renowned perſon in the time of <hi>Auguſtus,</hi> addreſſing him<g ref="char:EOLhyphen"/>ſelfe to <hi>Maecenas</hi> in a Poem, cries out, <hi>Maecenas,</hi> you have given me too much, I am weary with recei<g ref="char:EOLhyphen"/>ving. And truly we may ſay, that it is only the diſcretion of thoſe, to whom ſhe diſtributes her bene<g ref="char:EOLhyphen"/>fits, that can put a ſtop to her mag<g ref="char:EOLhyphen"/>nificence.</p>
+            <p>Exceſſe and Vanity may imitate
+<pb n="47" facs="tcp:170285:32"/>
+               <hi>Chriſtina,</hi> ſimple naturall Good<g ref="char:EOLhyphen"/>neſſe may proceed as far as ſhe; but they muſt remember, that this greatneſſe of courage is not ſolita<g ref="char:EOLhyphen"/>ry, and without company; all the Vertues do march either before or after, and the very ſame Fountain, from whence the particular ones draw forth their favours and graces, doth furnish the Common-wealth with benefits and rewards, with counſells and reſolutions, with mirth and recreations. But, if we would ſee where She ſurpaſſeth her ſelfe, and how She is altogether in<g ref="char:EOLhyphen"/>imitable, let us ſpeak of her Spirit; let us ſay, that among all the paſſi<g ref="char:EOLhyphen"/>ons of her ſoul, Love is the moſt powerfull; but it is the love of Sci<g ref="char:EOLhyphen"/>ences. She is all juſt, all prudent, all glorious, and all magnificent; but there is ſomething that appears with a preſence, greater then all this, Shee's all-knowing too, and
+<pb n="48" facs="tcp:170285:33"/>one may pronounce her to be as wel the Queen of the <hi>Muſes,</hi> as the Queen of the <hi>Swedes.</hi> Her Juriſdiction is as generall and as large over good Spirits, as her Soveraignity is ab<g ref="char:EOLhyphen"/>ſolute over her People. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here is not a Perſon who is ignorant, of thoſe admirable and clear lights, wherewith the ſtudy of Learning hath enrich'd her; nor is there a<g ref="char:EOLhyphen"/>ny, that hath arrived to ſo great a perfection, as that we ſhould ap<g ref="char:EOLhyphen"/>peal to him from any of her Judg<g ref="char:EOLhyphen"/>ments. She hath ſo great an inſight into the merit of every one, that it would be a very difficult thing for her, to miſtake or deceive her ſelfe.</p>
+            <p>It is no more a new thing to <hi>Swedland</hi> to have learned people, and perſons capable of great mat<g ref="char:EOLhyphen"/>ters, ſince ſhe hath a Queen who a<g ref="char:EOLhyphen"/>lone poſſeſſeth whatſoever the Sci<g ref="char:EOLhyphen"/>ences containe, that is either ob<g ref="char:EOLhyphen"/>ſcure
+<pb n="49" facs="tcp:170285:33"/>or much ſought after; who can dive into the very center of things ſupernaturall, ſo that nothing that ſavours of goodneſſe can be ſhut up in darkneſſe or kept from the reach of her piercing ſoul. She is a Queen, who cuts off time from her own divertiſments, and shakes off all imaginable pleaſures, to divert her ſoul after this admirable fashi<g ref="char:EOLhyphen"/>on. We need no more wonder, how this State proſpers ſo well, or by what means it is ſo marvellouſly governed, ſince we in our daies en<g ref="char:EOLhyphen"/>joy that, which <hi>Cato</hi> wiſh'd for with ſo much paſſion, in his ima<g ref="char:EOLhyphen"/>ginary Republick; He deſired, as a chiefe means to make States hap<g ref="char:EOLhyphen"/>py, that they might either be go<g ref="char:EOLhyphen"/>verned by Kings that were Philo<g ref="char:EOLhyphen"/>ſophers, or by Philoſophers that were Kings.</p>
+            <p>But ſhe that holds the Govern<g ref="char:EOLhyphen"/>ment, is ſhe not yet more then all
+<pb n="50" facs="tcp:170285:34"/>this, ſeeing ſhe is not only a Queen and a Philoſopher together, but ſhe riſeth higher ſtill, and is the Queen of Sages and Philoſophers. Lie ſtill then, and ſleep in ſecurity, for it is ſhe that is your conduct: You need not fear any ſhipwrack of your hap<g ref="char:EOLhyphen"/>pineſſe, ſo long as ſhe ſits at the Helme: You may deride the fury of Stormes and Rocks, for it is not poſſible that you ſhould miſcarry. <hi>Chriſtina</hi> watcheth for you, her Ge<g ref="char:EOLhyphen"/>nius guides you, and her prudence is anſwerable for your ſafety. Who would then think, that this great Queen ſhould diſreliſh her fortunes, who nouriſheth ſo juſt deſignes, and who, beſides ſo many great men now living, to whom ſhe com<g ref="char:EOLhyphen"/>municates her intentions, and ad<g ref="char:EOLhyphen"/>mits into her counſells, ſhe yet be<g ref="char:EOLhyphen"/>ſtowes her houres, and the deareſt of her life, upon the hearing of ſo many dead Counſellors, I would
+<pb n="51" facs="tcp:170285:34"/>ſay, ſo many good Bookes, which inſtruct her with liberty, and teach her all that, which may ren<g ref="char:EOLhyphen"/>der Queenes illuſtrious and com<g ref="char:EOLhyphen"/>mendable to poſterity; ſhe alſo un<g ref="char:EOLhyphen"/>derſtands them, in whatſoever lan<g ref="char:EOLhyphen"/>guage they ſpeak to her: ſo that there is nothing conſiderable, of which this apprehenſive Prin<g ref="char:EOLhyphen"/>ceſſe hath not an exact know<g ref="char:EOLhyphen"/>ledge, or utters not with a good grace.</p>
+            <p>But who is there, that will not above all things admire thoſe com<g ref="char:EOLhyphen"/>pleat and learned Letters, which ſhe is ſo generous, as to write to Perſons, eminent by their fortunes and vertues. May not one ſay of her, with more reaſon then of <hi>Chryſoſtome,</hi> That a ſtream of gold flowes from her tongue and her mouth, and that ſhe takes a ſpeciall care to poliſh that gold, and adorn it with a pleaſing luſtre.
+<pb n="52" facs="tcp:170285:35"/>We may ſay this, and (without mentioning here, thoſe who have rejoyced in ſo pretious a benefit, and been poſſeſſours of ſo admira<g ref="char:EOLhyphen"/>ble a treaſure) we may maintain with aſtoniſhment, that ſhe alone can comprehend whole Volumes in a few Lines, and contract great Bookes into ſmall Papers. Her words are ſo pure, ſo exact, and ſo delicious; her ſentences ſo choiſe, and ſo ponderous, her expreſſions ſo full of familiarity and freedome, and all the flowers of Rhetorick ſo curiouſly diſperſed through them all, that it may with the ſame confidence be ſaid of her, as of Saint <hi>Ambroſe,</hi> That the hony ſuck<g ref="char:EOLhyphen"/>ing Bees were her Nurſes; for, ſhe is enrich'd both with underſtan<g ref="char:EOLhyphen"/>ding and diſcourſe, and hath an Eloquence ſweeter, then the treaſures of <hi>Hybla.</hi> Her Secretaries in effect are rather Officers in ſhew
+<pb n="53" facs="tcp:170285:35"/>then of neceſſity: She her ſelfe com<g ref="char:EOLhyphen"/>poſeth the moſt difficult, and the moſt important Diſpatches; and when ſhe would explain her ſelfe in commanding termes, and a ſtyle full of Majeſty; or, when ſhe would apply the characters of her favour, and uſe expreſſions civill and ob<g ref="char:EOLhyphen"/>liging, ſhe never uſurps borrowed thoughts, nor picks words out of anothers fancy; her owne ingenu<g ref="char:EOLhyphen"/>ity preſents her with variety of excellent matter, that may either allure affections by courteſie, or compell them by violence. And truly, if there is a place, where Learning is diſintangled and me<g ref="char:EOLhyphen"/>thodicall; where Eloquence is or<g ref="char:EOLhyphen"/>derly diſpoſed, and vigorous; where Zeal is pleaſing and power<g ref="char:EOLhyphen"/>full; where the Graces are inſtru<g ref="char:EOLhyphen"/>ctive and edifying, we may ſecure<g ref="char:EOLhyphen"/>ly ſay, it is in this great Queen. She cannot content her ſelfe only with
+<pb n="54" facs="tcp:170285:36"/>the depth and ſolidity of her opi<g ref="char:EOLhyphen"/>nion, but ſhe addes alſo the digni<g ref="char:EOLhyphen"/>ty of expreſſion, and the magnifi<g ref="char:EOLhyphen"/>cence of wordes. She gives a ſplen<g ref="char:EOLhyphen"/>dor and acuteneſſe to her ſentences, a ſmoothneſſe and luſtre to her pe<g ref="char:EOLhyphen"/>riods; and the mixtures which ſhe makes of things, profitable and ſuitable, is ſo juſt, and tempered ſo to the purpoſe, that she ſeemes only to pleaſe and divert, when she ſpeaks with ſoveraignty and com<g ref="char:EOLhyphen"/>mand. There is as much of great<g ref="char:EOLhyphen"/>neſſe as Majeſty, in all her actions, but this Greatneſſe is polished and well managed, and this Majeſty is pleaſing and full of charmes.</p>
+            <p>I do not here intend to give you an Analyſis, nor to compriſe as 'twere in an inventory, all the ver<g ref="char:EOLhyphen"/>tues of this glorious Princeſſe; and though I should be ſo daring as to take it in hand, yet my endeavours could never be ſucceſſefull; for, in
+<pb n="55" facs="tcp:170285:36"/>the performing of ſuch an enter<g ref="char:EOLhyphen"/>priſe, the eloquence of <hi>Greece</hi> and <hi>Rome</hi> would finde an apparent im<g ref="char:EOLhyphen"/>poſſibility; ſince the powerfull Genius of <hi>Demoſthenes,</hi> and the flowery Rhetorick of <hi>Craſſus,</hi> never poſſeſſed any terme or figure, which could repreſent what that age was never bleſt with. But if thoſe great Oratours, whoſe perſwading tongues, did, in their times, entiſe a<g ref="char:EOLhyphen"/>way hearts, commit violence upon the will, and make ſoules Priſoners by the ear, could never arrive at any but ſhallow expreſſions, and thoughts altogether unfit to ſet forth our Princeſſe: What cenſure will you paſſe upon my temerity, who have undertaken that, of which I acknowledge them to have been uncapable: I, to whom age hath denyed the experience of thoſe great men: I, who have never ap<g ref="char:EOLhyphen"/>proached the Sanctuary of Kings:
+<pb n="56" facs="tcp:170285:37"/>I, to whom Nature hath refuſed all thoſe Graces, which are neceſſary to this illuſtrious Matter: And I, who in literature have had but a common and ordinary edu<g ref="char:EOLhyphen"/>cation. Yet I dare ſay, and my Va<g ref="char:EOLhyphen"/>nity hath a very plauſible founda<g ref="char:EOLhyphen"/>tion, that of all thoſe mouthes, which have had the happineſſe to praiſe our Queen, I am he, who will bear her Elogy the higheſt, and approach neereſt to a compleat de<g ref="char:EOLhyphen"/>ſcription. I know well, Gentlemen, that your attention is awakened, and that you long to underſtand the effect of my boaſting promiſes, which ſeem to you to be no leſſe a paradox, than the ſaying of an an<g ref="char:EOLhyphen"/>tient Philoſopher of <hi>Greece,</hi> who vaunted, That he could drink up all the Water in the Sea. But I will not hold you any longer in ſu<g ref="char:EOLhyphen"/>ſpence, I will not make you linger any more, in expectation of a thing,
+<pb n="57" facs="tcp:170285:37"/>which I perceive you wish for with ſo much ardency. Yet, if you think, that when I intend to ſpeak wor<g ref="char:EOLhyphen"/>thily of <hi>Chriſtina,</hi> I ought to produce large Elogies of her beauty, you ve<g ref="char:EOLhyphen"/>ry much deceive your ſelves; if you imagine, that I muſt praiſe her pru<g ref="char:EOLhyphen"/>dence, you are ſtill wide from my aime; or if you think, that I muſt make long Commentaries upon her vertues, you do not at all compre<g ref="char:EOLhyphen"/>hend the excellency of her merit. See, ſee, after what manner it is, that I ought to ſpeak worthily of her: When you meet with any deſer<g ref="char:EOLhyphen"/>ving perſon, who shall diſcourſe to you of the Vertues and the Graces, who shall make an illuſtrious com<g ref="char:EOLhyphen"/>pariſon of the beauties of the Body with thoſe of the Soule, and who in fine shall introduce Juſtice, Tem<g ref="char:EOLhyphen"/>perance, Prudence, and greatneſſe of Courage, in an elevation ſo high, as was never yet attain'd by any:
+<pb n="58" facs="tcp:170285:38"/>ſay onely one word, and that ſhall be of greater efficacy then whatſo<g ref="char:EOLhyphen"/>ever we have yet expreſſed: ſay onely, That our Queen enjoyes all theſe fair vertues, in a degree more eminent and more illuſtrious then he hath yet ſpoken of. But proceed no farther; take not to your ſelf the liberty to ſay that which you be<g ref="char:EOLhyphen"/>lieve ſhould be added to make the Elogy more compleat, and more accompliſh't: for, if there ſhould come a third that ſhould ſay to you, Our Princeſs exceeds whatſoever you ſay; This laſt is he that would merit the Palm.</p>
+            <p>When you perceive any of thoſe famous Orators, who, to render the vices odious, indeavour by plau<g ref="char:EOLhyphen"/>ſible Invectives and eloquent De<g ref="char:EOLhyphen"/>clamations to repreſent to you, how diſgraceful they are in their nature, how deplorable in the uſe, and how dangerous in the iſſue; ſay,
+<pb n="59" facs="tcp:170285:38"/>that our Queen hath not one of all theſe Defects: and you ſhall com<g ref="char:EOLhyphen"/>priſe more in that apt Negation, then if you had called to your aid all the precepts of the moſt know<g ref="char:EOLhyphen"/>ing Rhetorick. Let us content our ſelves therefore to acknowledge the extent of that which rejects all mea<g ref="char:EOLhyphen"/>ſures; let us reſt ſatisfied with the admiration of that which we can<g ref="char:EOLhyphen"/>not comprehend: let us follow her onely by the view, ſince no ſwift<g ref="char:EOLhyphen"/>neſs can overtake her; let us ſee her at a diſtance and contracted, ſince we cannot approach ſo neer to her, as to behold her in all her Dimen<g ref="char:EOLhyphen"/>ſions. What man is there, that is not tranſported with amazement and admiration to this Maiden Queen, who in the firſt flower of her youth was the general aſtoniſh<g ref="char:EOLhyphen"/>ment of the Univerſe? who is mounted upon a Throne, whoſe Majeſty the greateſt Princes cannot
+<pb n="60" facs="tcp:170285:39"/>paralell, who bears ſway over the moſt Martial Nation of the whole World? who alone carries the bur<g ref="char:EOLhyphen"/>den of her affaires? who is learned, who is knowing, who is juſt and mercifull to all alike? O what an adoreable perſon is this, who can ſuſtain upon her ſhoulders a bur<g ref="char:EOLhyphen"/>den ſo ponderous, as would make the reſt of the world ſink under the weight! O the vaſtneſs of her Ge<g ref="char:EOLhyphen"/>nius, that can comprehend all that the world knows powerful! O the Divinity of that ſoul, which ani<g ref="char:EOLhyphen"/>mates ſo glorious a ſubſtance.</p>
+            <p>I know well, that the Jews have had women for their Judges, Pro<g ref="char:EOLhyphen"/>pheteſſes, and Generals of their Ar<g ref="char:EOLhyphen"/>mies: The Romans and Greeks have had ſome, who knew how to Conquer, and bring home Triumph and Victory. All the world will witneſs, that they have been adored both with wiſdom and knowledge,
+<pb n="61" facs="tcp:170285:39"/>and many States cannot without ingratitude deny them to have been the Redeemers of their Countries Liberty: in fine, the virtue of this Sex is as ancient as the world, and hath produced many fair examples in all Times and Ages. Women have publiquely taught Philoſo<g ref="char:EOLhyphen"/>phy and Rhetorick at <hi>Athens.</hi> It was a Woman that ſucceeded in the School and reputation of <hi>Ploti<g ref="char:EOLhyphen"/>nus</hi> of <hi>Alexandria.</hi> The Vniverſities of <hi>Padua</hi> and <hi>Bolognia,</hi> have had ſome of that Sex <hi>Graduates</hi> and <hi>Re<g ref="char:EOLhyphen"/>gents. Holland</hi> hath loſt one lately, whom they did eſteem to be their tenth Muſe: and to ſay nothing of thoſe whom Orators &amp; Poets have had for Competitors and Rivals; there is not a Nation who hath not embalm'd in Hiſtory, ſome female Hero's, or warlike Amazons: But I am fully aſſur'd, that all thoſe things which can be ſaid of the fair
+<pb n="62" facs="tcp:170285:40"/>qualities of this Sex, meet happily aſſembled in our Queene. She hath the admirable Juſtice and Piety of thoſe illuſtrious Jews, who were both Warriers and Propheteſſes; She hath the courage of thoſe victo<g ref="char:EOLhyphen"/>rious Greeks; and the power of thoſe conquering Romans; She hath all thoſe affections for her peo<g ref="char:EOLhyphen"/>ple, that thoſe generous Mothers of their Countries could be capable of: In fine, She enjoyes all that large capacity and profound learning, which added ſplendor to thoſe wiſe and knowing Women, who with honour ſuppli'd the places of learned men and Philoſophers. But if ſhe alone hath all the vertues of all the others together, don't think, O men, that ſhe can have the leaſt defect in any of them in particular! nothing leſs then that; every thing ſhines in her with an unſpotted flame; but let me onely ſay, that
+<pb n="63" facs="tcp:170285:40"/>ſhe is good naturally, that ſhe is al<g ref="char:EOLhyphen"/>ſo good by induſtry, and it will ſuf<g ref="char:EOLhyphen"/>fice to ſtiffle all thoſe thoughts, which may hinder you from rend<g ref="char:EOLhyphen"/>ring juſtice to her glory.</p>
+            <p>It is certain, Great Queen, that all that which we are about to ſay, cannot be ſuſpected for flattery, none can ever reproach the exceſs or ſwelling of our words, they may blame rather our ſterility then our abundance, ſeeing that at this day the eyes of all Europe are fix't upon you, and there is not a mouth, if it have but the ſmalleſt reliſh of Chri<g ref="char:EOLhyphen"/>ſtianity, which makes not you the object of its bleſſings. You are the Model of Kings, but it muſt be meant of good Kings, and not of Tyrants, not of thoſe who lay op<g ref="char:EOLhyphen"/>preſſions upon their people, and enforce them to ſtiffle their Religi<g ref="char:EOLhyphen"/>on, but of thoſe onely who eſtabliſh it by their example, and whoſe
+<pb n="64" facs="tcp:170285:41"/>moderation renders them the de<g ref="char:EOLhyphen"/>lights of their people; theſe laſt are they to whom you are the ordi<g ref="char:EOLhyphen"/>nary entertainment; and it cannot be but a ſweet ſatisfaction, that ſo many Soveraigns, and ſo many il<g ref="char:EOLhyphen"/>luſtrious Princes, ſhould deſcend from their Thrones to become your Spectators, and (I may reſolutely ſay, for 'tis no more then truth) to become your Adorers: That Con<g ref="char:EOLhyphen"/>ſort cannot but be harmonious, which ſprings from the noiſe and acclamations of ſo many victorious perſons, who applaud you with their Palms, which though peace<g ref="char:EOLhyphen"/>able and clear from blood, are as worthy as thoſe ſtained and tumul<g ref="char:EOLhyphen"/>tuary ones, which you have gained in the common diſſention of Eu<g ref="char:EOLhyphen"/>rope. And truly 'tis no ſmall glory for you to have out-gone whatever Hiſtories and Annales have for ſix thouſand years produced, fulleſt
+<pb n="65" facs="tcp:170285:41"/>of renown and aſtoniſhment; for in all thoſe acclamations which your Armies afford you, your re<g ref="char:EOLhyphen"/>putation gains a greater height and luſtre, from your vertue, which is ſo victorious over hearts, than from that fortune of yours, which hath been glorious by ſo many Armies defeated, by ſo many Journies and Battailes obtained, and by ſo many Towns aſſaulted.</p>
+            <p>And you, Noble Princeſs, the illuſtrious Pillar that ſuſtaines the welfare of this Monarchy: You, my Lords, who have gloriouſly Conquered &amp; triumphed over your enemies: You, who under the Great <hi>Guſtavus Adolphus,</hi> have beene alwaies Invincible, and alwaies Vi<g ref="char:EOLhyphen"/>ctorious under your illuſtrious Queene: You, (I ſay) who have ſo often beſprinkled her glorious Palmes with your blood, who have made them thrive in the ſhade of
+<pb n="66" facs="tcp:170285:42"/>your victorious Armes, and who have engraff't her Trophies upon your ſweat, and painful Travels: nay farther, You whom ſhe calls with Juſtice her Right hand: It is a glorious thing for you to have brought into ſubjection, ſo many people both within and without <hi>Germany,</hi> both upon Sea and upon Land, to have forced all thoſe ei<g ref="char:EOLhyphen"/>ther to bend or break, who would have reſiſted your valour, to have cleared your Frontires, and added whole Provinces to the flouriſhing Empire of your Queene; to have made him tremble, to whom a ſpi<g ref="char:EOLhyphen"/>rituall Tyranny allowes the vanity of wearing a Triple-Crown, and to compel ſoules to the Chaines and Shackles of a miſerable ſervitude: And in fine, to have humbled that proud Family, who had for a long time fore-caſt the foundations of an Univerſall Monarchy, which you
+<pb n="67" facs="tcp:170285:42"/>have brought downe to the lan<g ref="char:EOLhyphen"/>guage of Petitions, and have con<g ref="char:EOLhyphen"/>ſtrain'd them to ask that peace which they denyed to others with abundance of rigour.</p>
+            <p>And you, my Lords, who have interpos'd with your weighty Counſels, who have mark't out the delineaments of thoſe glorious en<g ref="char:EOLhyphen"/>terpriſes, and have carti'd away the praiſe of beginning that with your Braines, which others have execu<g ref="char:EOLhyphen"/>ted with their Courage. It is no ſmall glory for you to make an e<g ref="char:EOLhyphen"/>quall diviſion of your Palmes and Lawrels, ſince that you have all conſorted and conſpir'd ſo advan<g ref="char:EOLhyphen"/>tagiouſly for the welfare of your Country. But after all, when you, illuſtrious Warriors, ſhall have car<g ref="char:EOLhyphen"/>ri'd away more Victories, then you have yet done; when you ſhall have over-throwne all the Empires, which you have yet but ſhaken,
+<pb n="68" facs="tcp:170285:43"/>and then triumph over all the world; when you ſhall have char<g ref="char:EOLhyphen"/>ged with Chaines ſo many Kings, whom you ſhall make your Pri<g ref="char:EOLhyphen"/>ſoners, and lead them to the feet of your Queene: And you! when you ſhall have given Counſels yet better, if it were poſſible, then thoſe you have hitherto given, when they ſhall be put in practice; and (to carry the ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter a little far<g ref="char:EOLhyphen"/>ther) when all events ſhall be ſub<g ref="char:EOLhyphen"/>mitted to the prudence of your reaſonings; you ſhall then have a glory more magnificent and ſignifi<g ref="char:EOLhyphen"/>cant then all that; which is, the glory to ſee <hi>Chriſtina.</hi> O happy peo<g ref="char:EOLhyphen"/>ple! O happy Nation, that can enjoy ſuch a Queene! happy is that Generoſity, which can be ſa<g ref="char:EOLhyphen"/>crificed to her ſervice! happy Lords! happy Commons, that can live under ſo delicious a Govern<g ref="char:EOLhyphen"/>ment, and behold in their dayes ſo
+<pb n="69" facs="tcp:170285:43"/>many ſucceſſive wonders! happy Earth, that can be the ſupporter of a burden ſo worthy, and a weight ſo well ballanced! happy Pole, which diſperſes from above, ſuch ſweet and delightfull influences! happy Starres, which have beene the Aſcendants of a Conſtellation ſo bleſſed, and a birth ſo favour<g ref="char:EOLhyphen"/>able! but more happy yet is Hea<g ref="char:EOLhyphen"/>ven, from whence all bleſſings fall upon your heads in ſo plentifull a ſhower. As for me, I confeſs, that after ſo many learned men, who have compoſed the Elogy of the moſt Renowned Queene in the World, I ought to have tooke it into my Conſideration, either to have held my peace, or to have ſpoken ſomething that might have anſwered the merit of my Subject, and to have recompenced you for that calme and continued patience, wherein you have wrapped your
+<pb n="70" facs="tcp:170285:44"/>attention. I had alſo beene in doubt whether I ſhould have obeyed my firſt reſolutions, and ſo ſlept in ſi<g ref="char:EOLhyphen"/>lence; but a glorious Emulation, and a lawfull Envy, confirm'd my thoughts in this liberty. It grieved me much, when I perceiv'd how the praiſes of this adoreable Prin<g ref="char:EOLhyphen"/>ceſs, was promoted among all peo<g ref="char:EOLhyphen"/>ple and Nations, and Celebrated in all ſorts of Languages, and that the <hi>French</hi> onely, the <hi>French</hi> I ſay, which is ſo much oblig'd to her, and which this Princeſs hath che<g ref="char:EOLhyphen"/>riſh't as her owne, ſhould be alto<g ref="char:EOLhyphen"/>gether ſilent in this matter. Truly 'tis this reaſon which makes me chooſe rather to ſpeake to you in <hi>French,</hi> then in any other language; it is this which hath emboldened me to aſcend into this place, and given protection to my weakneſſe. It is true, that this moſt illuſtrious Lord, whom the Common-wealth
+<pb n="71" facs="tcp:170285:44"/>of <hi>England</hi> hath ſent hither, and that train of Nobility which attends him, have much contributed to the naturall diſpoſition which I alwaies nouriſhed, to admire the actions of this incomparable Queene. The Benedictions of ſo many religious vowes, which all of them in par<g ref="char:EOLhyphen"/>ticular have made for her proſperi<g ref="char:EOLhyphen"/>tie, are manifeſt by experience: Alſo it would not have beene poſ<g ref="char:EOLhyphen"/>ſible for me to have confin'd with<g ref="char:EOLhyphen"/>in my ſelf, thoſe happy acclamati<g ref="char:EOLhyphen"/>ons and wiſhes, which all <hi>England</hi> breathe forth for her advantage. Do not ſuſpect that my words are couch't in a diſguiſe, they are nei<g ref="char:EOLhyphen"/>ther diſſembling nor ſervile: they carry the hearts of perſons that are truly free, and from whom Tyranny can force up nothing of unworthy flattery. This puiſſant Republique, which makes a world by it ſelf, and which with the helpe of <hi>Swedland,</hi>
+               <pb n="72" facs="tcp:170285:45"/>might give Lawes to the whole Earth, produceth nothing, but what is of deſert and value. If ſhe knowes how to chaſtiſe thoſe, who raiſe themſelves againſt the glory of God, who pervert his ſervice, and oppreſs their people: She alſo knowes how to heape her Benedi<g ref="char:EOLhyphen"/>ctions and Praiſes upon good Kings: With theſe ſhe endeavours to con<g ref="char:EOLhyphen"/>ſerve a reall alliance; with them, ſhe intends nothing but an eternall Warre: In a word, She admires the one ſort, as much as ſhe deteſts the other You ought not any more to doubt of this after ſo glorious a Teſtimony, explained in this Am<g ref="char:EOLhyphen"/>baſſage, which ſhe hath ſent to you, and by the worthy choice which ſhe made of one of her moſt illu<g ref="char:EOLhyphen"/>ſtrious Lords. If that wiſe Com<g ref="char:EOLhyphen"/>mon wealth had not with much affection, wiſh't for a good correſ<g ref="char:EOLhyphen"/>pondence with you, for the ad<g ref="char:EOLhyphen"/>vancement
+<pb n="73" facs="tcp:170285:45"/>of Gods honour, and if ſhe had not regarded with admira<g ref="char:EOLhyphen"/>tion the merits of <hi>Chriſtina,</hi> ſhe would not have choſen out the moſt illu<g ref="char:EOLhyphen"/>ſtrious Perſon, among the moſt il<g ref="char:EOLhyphen"/>luſtrious, or the moſt capable among the moſt capable of all that great Iſland, which is accuſtomed to produce ſo many gallant men: and to ſpeak all in one word, ſhe could not have choſen a perſon more no<g ref="char:EOLhyphen"/>ble, or more worthy of <hi>Chriſtina.</hi>
+            </p>
+            <p>Let us draw to a Concluſion therefore: my Lords, ſeeing that all the vertues of this glorious Queene are truly Royal; and that inferiour and private perſons, cannot arrive at any that may be comparable to thoſe; ſince then, they cannot be communicated to any but her ſelfe, let us admire them as we ought: and if for the better fixing in your memory, what hath been already ſaid, we are obliged to repeat all
+<pb n="74" facs="tcp:170285:46"/>againe: I'le ſay, we cannot deliver to your eye a perſpective to make you behold thoſe things, than which the Sunne ſees none more marvel<g ref="char:EOLhyphen"/>lous: for, if you conſider her In<g ref="char:EOLhyphen"/>fancy, you'l find it full of admirati<g ref="char:EOLhyphen"/>on and wonders; if her life, you'l ſee it repleniſhed with Prodigies and extraordinary actions. The firſt is one Series of continued miracles; and that little time which hath been drawn from her precious life, hath it not been crowned with a perpe<g ref="char:EOLhyphen"/>tuall interlacing of Victories? And hath ſhe not now undertooke to ſettle your Repoſe? May ſhe receive along benefit from that ſweet peace which ſhe hath procured you: May ſhe rejoyce a whole age in that fe<g ref="char:EOLhyphen"/>licity which ſhe hath purchaſed for you. May ſhe alſo render to Chri<g ref="char:EOLhyphen"/>ſtianity, thoſe yeares which were due, and which Death raviſhed from her Father, and your King:
+<pb n="75" facs="tcp:170285:46"/>and, to ſhut up all, Let us earneſtly beſeech the great King of Heaven, that, whatſoever he hath deprived us of in the renowned <hi>Guſtavus,</hi> he would add it to the proſperity, to the glory, and to the long and con<g ref="char:EOLhyphen"/>tinued Raign of <hi>Chriſtina.</hi>
+            </p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:170285:47"/>
+            <head>To the Fair, Vertuous, and nobly honoured Lady M<hi rend="sup">rs</hi> 
+               <hi>R. G. Upon this</hi> Panegyrick.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <lg>
+               <l>WHen this bleſs't Panegyrick, which hath been</l>
+               <l>Embalm'd by th'Name and vertues of a Queen,</l>
+               <l>Shall court th'expence of a few idle hours,</l>
+               <l>From others eyes, as now 't has done from yours,</l>
+               <l>The curious Reader may perchance miſtake</l>
+               <l>Our Author's mind, &amp; think, while he did make</l>
+               <l>Her Elogy, he ſtrove not how to fit</l>
+               <l>His matter to her worth, but his own wit..</l>
+               <l>(Yet we may think her merits ſtretch ſo far,</l>
+               <l>Both are defective and come ſhort of her.)</l>
+               <l>But would I trace your vertues, there doth lie</l>
+               <l>Subject enough to draw the Muſes dry:</l>
+               <l>When I'de explain one Grace, another then,</l>
+               <l>And then another, checks my daring pen,</l>
+               <l>Till in ſuch happy ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms they do appear,</l>
+               <l>Arithmetick might loſe its Numbers there.</l>
+               <l>So, fling a Stone into a Pond, it hurles</l>
+               <l>The willing Waters into wanton curles,</l>
+               <l>One Ring creates a ſecond, that doth make</l>
+               <l>A third, the third a fourth, until they ſhake</l>
+               <l>The Circles into more, and ſo they grow</l>
+               <l>To multitudes as your fair Vertues do.</l>
+               <pb n="2" facs="tcp:170285:47"/>
+               <l>You ſit like her enthron'd in ſuch a Sphere,</l>
+               <l>Envy or Flattery can't reach you there;</l>
+               <l>And what is ſaid of her, if ſaid of you,</l>
+               <l>Would be thought little, rather then untrue,</l>
+               <l>For you ſo much excell, are ſo compleat,</l>
+               <l>You need no Titles for to make you Great.</l>
+               <l>The Queen of <hi>Sweden</hi> we allow to be</l>
+               <l>Majeſtical, but you are Majeſty:</l>
+               <l>She's good, you goodneſs are; each King</l>
+               <l>And Queen may have the Name, you are the Thing.</l>
+               <l>And the ſame Princeſs (ſuch is your renown,</l>
+               <l>Your head is wreath'd with ſuch a glorious Crown</l>
+               <l>Of worth) would take it as a favour done her,</l>
+               <l>To be accepted as your Maid of Honour.</l>
+               <l>Imperious <hi>Pharoah,</hi> and the tawny crew</l>
+               <l>Of his dark ſubjects, when old <hi>Nile</hi> withdrew</l>
+               <l>His watry bleſſings from that fruitful land,</l>
+               <l>Were kept from Famine by the thrifty hand</l>
+               <l>Of ſaving <hi>Ioſeph,</hi> in that fatal dearth,</l>
+               <l>Had he not fed them, they'd been food for earth.</l>
+               <l>So did not you diſtribute Vertue here</l>
+               <l>And there, to ſome few Ladies; where, O where</l>
+               <l>Should we then find it? You from heaven were ſent</l>
+               <l>As th'only proper and fit inſtrument</l>
+               <l>To convey goodneſs: Though the multitude</l>
+               <l>May make us more, yet you muſt make us good.</l>
+               <l>Thus, thus, your growing Vertue doth diſpence,</l>
+               <l>And (like the Seas unbounded influence)</l>
+               <l>S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pplies the leſſer Rivers, till their ſides</l>
+               <l>Grow big, yet feels no want in its full rides.</l>
+               <l>You other ſouls make rich, and yet are grown,</l>
+               <l>Not one ſmall grace the poorer in your own.</l>
+               <l>Strange operations, noble Fair! when you</l>
+               <l>Can be alone both Stream and Fountain too.</l>
+               <pb n="3" facs="tcp:170285:48"/>
+               <l>When I behold ſome fair illuſtrious Grace,</l>
+               <l>Or Vertue, revell in the ſoul or face</l>
+               <l>Of ſome bright beauty, ſtraite my Fancy flies</l>
+               <l>To you, to know what that Grace ſignifies:</l>
+               <l>For whatſoever's Good or Great, 'tis all</l>
+               <l>Copy'd from you the true Originall.</l>
+               <l>The greateſt ſoules are in your colours ſhowne,</l>
+               <l>You are their Light, they your Reflection:</l>
+               <l>They, but like ſhadows which the Sun hath drew,</l>
+               <l>Are onely dark reſemblances of you;</l>
+               <l>And as dark ſhadows ſet fair pictures forth,</l>
+               <l>So their defects adde luſtre to your worth,</l>
+               <l>Whoſe conqu'ring brightneſs is now grown ſo high</l>
+               <l>The Perſians had forſook their Deity,</l>
+               <l>Had they known you; their old ſuperſtition</l>
+               <l>Had chang'd its courſe, and in new channels run,</l>
+               <l>You could have ſhot into their breaſts a higher</l>
+               <l>And warmer zeal, then his neglected fire.</l>
+               <l>Your ſoul is ſo well breath'd, from ſpots ſo free,</l>
+               <l>Angels might there a purer ſubſtance ſee</l>
+               <l>Then themſelves are: Divines may learn from thence</l>
+               <l>How <hi>Adam's</hi> ſoul look't in its Innocence.</l>
+               <l>Thus is your inſide fram'd; yet you can ſhow</l>
+               <l>A face, which doth as much perfection owe</l>
+               <l>As that draws wonder, each of them muſt paſſe</l>
+               <l>Unmatch't, unleſs each be the others Glaſs.</l>
+               <l>Let daring Monarchs follow warlike ſounds,</l>
+               <l>Delight in death, revel in diſmal wounds,</l>
+               <l>Let them their louder Conqueſts boaſt, &amp; build</l>
+               <l>Their idle Trophies up, yet muſt they yield</l>
+               <l>Blood for this purchaſe; blood, whoſe drops may riſe</l>
+               <l>To greater value, then their Victories.</l>
+               <l>You need not this, for you more deaths can deal</l>
+               <l>By looks, then Armies by their fatal ſteel:</l>
+               <l>There's not a half born ſmile, that ſalli's from</l>
+               <pb n="4" facs="tcp:170285:48"/>
+               <l>Your noble face, but brings a priſoner home:</l>
+               <l>Not one glance falls from you, but what doth flie</l>
+               <l>Tip't with the powers of Love and Victory.</l>
+               <l>Here lies a Captive (in's chains fortunate)</l>
+               <l>Who ſpeakes your praiſe, though thence he drew his Fate.</l>
+               <l>Another there, proud of his fetters, cryes,</l>
+               <l>His heart is fetch't from your triumphant EYES.</l>
+               <l>There, there's the cauſe of all, thence 'tis that thus</l>
+               <l>You alwaies do become Victorious.</l>
+               <l>Their Globes are with ſuch forcing fires poſſeſt,</l>
+               <l>They can dart flames into the frozen breaſt</l>
+               <l>Of a cold Hermit, and with little pains,</l>
+               <l>Make wanton blood trace in a Cynick's veines:</l>
+               <l>That which we falſly call a Wart, doth prove</l>
+               <l>To be the very Magazin of Love,</l>
+               <l>The ſtrongeſt Tower of warlike Cupid, whence</l>
+               <l>He flings his fires, had but the Gyants thence</l>
+               <l>Fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght againſt heav'n, they quickly mought invade</l>
+               <l>Th'oppoſing Gods, &amp; heav'n their Throne have made</l>
+               <l>All the Artillery of Cupid lyes</l>
+               <l>Couch't in the piercing luſtre of your eyes:</l>
+               <l>They like ſure Agents ſet his plots on foot,</l>
+               <l>'Tis he may ſpeak, 'tis they muſt execute:</l>
+               <l>They're two great Theaters, Beauty and Love</l>
+               <l>There act their parts, &amp; in juſt Triumphs move.</l>
+               <l>Do you but frown, the ſtouteſt ſoules are ſlaine,</l>
+               <l>Do you but ſmile they all revive again:</l>
+               <l>Such power lies in your eyes, that you alone</l>
+               <l>Can antedate the Reſurrection.</l>
+               <l>The Poets (men, who in their brains compriſe</l>
+               <l>A Mint, where Fancy can coine Hiſtories,</l>
+               <l>And feign Creations) have ſo loudly prais'd</l>
+               <l>The beauties of a Venus, that they rais'd</l>
+               <l>Her perſon up to heaven, and gave her there</l>
+               <pb n="5" facs="tcp:170285:49"/>
+               <l>The glories of a Goddeſs, and a Star:</l>
+               <l>But there was no one ſuch, nor could ſhe ever</l>
+               <l>Attain thoſe beauties which the Poets give her</l>
+               <l>There's but one way to make their praiſes true,</l>
+               <l>To ſay, They are a prophecy of you,</l>
+               <l>And then they're all fulfill'd: you onely are</l>
+               <l>The Goddeſs that deſerves the name of Fair:</l>
+               <l>You are the rule of beauty, ſhe alone</l>
+               <l>That is like you, hath gain'd perfection.</l>
+               <l>
+                  <hi>Sheba's</hi> great Queen, travell'd to gaze upon home</l>
+               <l>The glories of the prudent <hi>Solomon:</hi>
+               </l>
+               <l>Had you then liv'd, you might have ſtaid at</l>
+               <l>And ſeen as much: he would to you have come.</l>
+               <l>He'd have deſpis'd his Buildings, and made you</l>
+               <l>His onely Temple and Devotion too.</l>
+               <l>'Mong'ſt all the Beauties of the loudeſt Fame,</l>
+               <l>Your Bodie's built in the exacteſt frame:</l>
+               <l>O happy 'bove the joyes of gods, is he,</l>
+               <l>Whoſe Stars ſhall ſo plo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his felicity,</l>
+               <l>As to give him a Gem of ſuch high price,</l>
+               <l>And let him ranſack that ſoft Paradice.</l>
+               <l>But, ſtay fond thoughts, where doth your fancy run?</l>
+               <l>Had you firſt learned to unſtrip the Sun,</l>
+               <l>And count his Atoms, then perhaps you might</l>
+               <l>Number thoſe Graces that are infinite.</l>
+               <l>While I thus ſtrive to ſet your wonders forth</l>
+               <l>At full, I drop far ſhort of your great worth:</l>
+               <l>
+                  <hi>Ixion</hi> ſo in his ambition proud,</l>
+               <l>Look't for a Goddeſs and embrac't a cloud.</l>
+               <l>Smile on the Sacrifice that here I bring,</l>
+               <l>And your acceptance makes it meriting:</l>
+               <l>Altars of Goddeſſes beſtow a ſhare</l>
+               <l>Of worth, on th'Incenſe that is offer'd there.</l>
+            </lg>
+            <closer>
+               <signed>Your moſt Devoted W. L.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170285:49"/>
+         </div>
+      </body>
+   </text>
+</TEI>
